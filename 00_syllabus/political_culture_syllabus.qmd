@@ -184,7 +184,7 @@ The research proposal will follow the structure of a standard academic paper. Ho
 
 #### Submission deadline {.unnumbered}
 
-The deadline for submission is **Friday, the 2nd of May, at noon (12:00)**, three weeks after Block III. The proposals must be sent by e-mail to the lecturer at [alvaro.canalejo@unilu.ch](alvaro.canalejo@unilu.ch) with the subject *research_proposal_YOURSURNAME* (e.g., *research_proposal_CANALEJO*).
+The deadline for submission is **Friday, the 2nd of May, at noon (12:00)**, three weeks after Block III. The proposals must be sent by e-mail to the lecturer at [alvaro.canalejo@unilu.ch](alvaro.canalejo@unilu.ch) with the subject *Research proposal YOURSURNAME* (e.g., *Research proposal CANALEJO*).
 
 #### Recommendation {.unnumbered}
 
