@@ -68,9 +68,14 @@ To receive the credits, students are expected to fulfill the following criteria:
 
 Attendance is mandatory. Students can miss a maximum of two sessions. Missing more sessions without a justified certificate of absence implies failing the course.
 
-#### 2. Study the mandatory readings before each session 
+#### 2. Do the mandatory readings before each session 
 
-*Studying = reading + critical thinking*. 
+This course is reading-intensive. Therefore, I recommend reviewing the following blog entries, which will help you develop effective strategies for reading and critically engaging with scientific articles:
+
+- [How to Read a Scientific Article](https://macartan.github.io/teaching/how-to-read)  
+- [How to Critique a Scientific Article](https://macartan.github.io/teaching/how-to-critique)  
+
+These resources provide practical guidance on identifying key arguments, assessing the strength of evidence, and critically evaluating research contributions.  
 
 The texts will be uploaded to the materials folder in OLAT before each block of sessions.
 
