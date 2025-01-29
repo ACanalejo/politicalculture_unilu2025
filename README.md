@@ -230,7 +230,7 @@ The required readings for this course are listed in the *Course Schedule* sectio
 
 This block introduces the conceptual framework of the course. It discusses the notions of culture, social norms and group identity, exploring how cultural differentiation occurs and persists. This introductory block aims to provide the analytic tools to study political behavior from a cultural perspective. It will allow us to dig into specific topics in blocks II and III. 
 
-#### Session 01. Introduction to the course (28.02.25 / 9:15–10:45) 
+#### Session 1. Introduction to the course (28.02.25 / 9:15–10:45) 
 
 Required readings:
 
