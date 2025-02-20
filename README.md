@@ -77,6 +77,7 @@ This course is reading-intensive. Therefore, I recommend reviewing the following
 
 These resources provide practical guidance on identifying key arguments, assessing the strength of evidence, and critically evaluating research contributions.  
 
+Still, the readings may contain complex methodological aspects that could distract from their substantive focus. To help students keep track of the most important aspects of each reading and to center the class discussion, the lecturer will also post **reading questions** for each session in OLAT before the corresponding block. Students do not need to submit their answers to these questions, *nor will they be evaluated*, but they will be helpful to managing the reading loads and discussions.
 The texts will be uploaded to the materials folder in OLAT before each block of sessions.
 
 #### 3. Participate actively 
@@ -103,22 +104,9 @@ The **submission rules** are:
 
 - The file must be in Word. The title should include the session's number followed by the student's surname in capital letters and the response paper number (either 1 or 2). For example: *session05_CANALEJO_1*.
 
-##### How to read scientific articles effectively 
-
-This course is reading-intensive. Therefore, I recommend reviewing the following blog entries, which will help you develop effective strategies for reading and critically engaging with scientific articles:
-
-- [How to Read a Scientific Article](https://macartan.github.io/teaching/how-to-read)  
-- [How to Critique a Scientific Article](https://macartan.github.io/teaching/how-to-critique)  
-
-These resources provide practical guidance on identifying key arguments, assessing the strength of evidence, and critically evaluating research contributions.  
-
 #### 5. Write a research proposal 
 
-**Objective**
-
 The primary objective of this assignment is to enable students to conceptualize and design an original research study on a topic related to political culture. This task will draw upon the readings, discussions, and ideas explored throughout the course, allowing students to apply their knowledge in a practical and creative manner.
-
-**Format**
 
 The research proposal will follow the structure of a standard academic paper. However, unlike traditional research papers, students are not required to include a data and results section. Instead, the emphasis will be on crafting a robust research design that could feasibly be executed in the field. The papers must have **between 2500 and 3500 words.**
 
@@ -148,20 +136,19 @@ The research proposal will follow the structure of a standard academic paper. Ho
    - Explain how your chosen methods are best suited to address your research question and hypotheses.
    - Consider potential challenges or limitations of your research design and discuss how you plan to address them.
 
-##### Submission deadline 
+#### Deadline and mid-steps
 
-The deadline for submission is **Friday, the 2nd of May, at noon (12:00)**, three weeks after Block III. The proposals must be sent by e-mail to the lecturer at [alvaro.canalejo@unilu.ch](alvaro.canalejo@unilu.ch) with the subject *Research proposal YOURSURNAME* (e.g., *Research proposal CANALEJO*).
+Students are asked to upload a research question proposal to OLAT by Thursday, the 20th of March, at noon (12.00). *This exercise will not be evaluated* but is intended to help students begin shaping their research proposal ideas. A break will be incorporated into the Block II sessions to discuss the research questions and provide peer feedback. Research questions should be uploaded to the folder *Research questions* within the *Research proposals* folder in OLAT.
 
-##### Recommendation 
+Students should also upload a brief research proposal outline (maximum 1 page) to OLAT by Thursday, the 10th of April, at noon (12.00). Again, *this exercise will not be evaluated* but will help students prepare their final research proposal. A break will be included in the Block III sessions to discuss the outlines and provide peer feedback. Research proposal outlines should be uploaded to the folder *Research proposal outlines* within the *Research proposals* folder in OLAT.
 
-While students are encouraged to choose any topic of interest within the realm of political culture, it is advisable to consult with the lecturer during the topic selection process to ensure alignment with course objectives and academic rigor.
+Finally, students must upload their **research proposal** by **Friday, the 2nd of May, at noon (12:00)**, three weeks after Block III. The evaluation of the research proposal will be based entirely on this document. Research proposals must be uploaded to the folder *Research proposals (final)* within the *Research proposals* folder in OLAT. The name of the file should be *research_proposal_YOURSURNAME* (e.g., *research_proposal_CANALEJO*). The file must be in Word or PDF.
 
 #### 6. Present their research proposal  
 
 Following the submission of the research proposal, students will receive personalized feedback from the lecturer. They must reflect on this feedback, make corrections and improvements to their research proposal, and prepare a presentation that will take place on the last Block of the course.
 
-The research proposal evaluation will mostly fall under the quality of their work during the presentation. Therefore, the most crucial aspect of the course is not that much that students write a good research proposal but that they are able to pick up the feedback from the lecturer and add the necessary corrections so that the final output address the limitations and pitfalls of the proposal.
-
+The presentation of the research proposal is just as important as the proposal itself. The key objective of the course is not merely for students to write a strong research proposal but to demonstrate their ability to incorporate feedback from the lecturer, make necessary revisions, and refine their work to address its limitations and weaknesses effectively.
 The presentation must follow the same structure as the research proposal and make explicit references to the changes made in response to the lecturer's feedback. It must last a maximum of 15 minutes and will be followed by an open discussion.
 
 The presentation slides must be uploaded to the folder *Presentations* in OLAT at the beginning of the week of the last Block, **by Wednesday, the 21th of May, at noon (12:00)**. This will allow students and the lecturer to prepare comments in advance. The name of the slides file should be *presentation_slides_YOURSURNAME* (e.g., *presentation_slides_CANALEJO*).
@@ -180,7 +167,7 @@ The presentation slides must be uploaded to the folder *Presentations* in OLAT a
 
 #### 7. Serve as discussant  
 
-At the beginning of the course, during the organization of the presentations, each student will be assigned as a discussant of another student's presentation. The discussant will use the presentation slide to prepare comments in advance that will share after the presentation.
+At the beginning of the course, during the organization of the presentations, each student will be assigned as a discussant of another student's presentation. The discussant will use the presentation slideS to prepare comments in advance that will share after the presentation.
 
 #### Grading policy 
 
@@ -214,7 +201,7 @@ The deadline for the submission of the seminar paper can be agreed with the lect
 
 Please refer to the [Guidelines on How to Do Research of the Department of Political Science](https://www.unilu.ch/fileadmin/fakultaeten/ksf/institute/polsem/Dok/Guidelines_POLSEM___2023___Deutsch.pdf) for more details.
 
-**Students are strongly encouraged to develop their research proposal assignment for their pro-seminar paper.**
+**Students are strongly encouraged to develop their research proposal assignment for their seminar paper.**
 
 ## Office Hours
 
@@ -390,6 +377,8 @@ Additional readings:
 - Dinas, E., & Northmore-Ball, K. (2020). The ideological shadow of authoritarianism. Comparative Political Studies, 53(12), 1957–1991.
 
 - Valentim, V. (2021). Parliamentary Representation and the Normalization of Radical Right Support. Comparative Political Studies, 0010414021997159. https://doi.org/10.1177/0010414021997159
+
+- Valentim, V. (2024). The normalization of the radical right: A norms theory of political supply and demand. Oxford University Press.
 
 
 #### Session 9. Institutions and cultural change (11.04.2025 / 11:00–12:30) 
