@@ -1,0 +1,253 @@
+---
+title: "Culture and Politics"
+subtitle: "Hauptseminar Spring 2025"
+author: "Álvaro Canalejo-Molero"
+institute: "University of Lucerne"
+bibliography: ../00_bibliography/polcul.bib
+csl: ../00_bibliography/apa.csl
+toc: false
+toc-depth: 1
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme: default
+    logo: ../00_images/logo_unilu.png
+    footer: | 
+         Hauptseminar - Spring Term 2025
+    title-slide-attributes:
+      data-background-image: "../00_images/unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: true
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+---
+
+## About me
+
+-   **Postdoctoral researcher** at the project [DIGIPOL](https://www.unilu.ch/en/faculties/faculty-of-humanities-and-social-sciences/institutes-departements-and-research-centres/department-of-political-science/research/digitalization-and-political-conflict-parties-voters-and-electoral-alignment-digipol/#section=c122045) and Senior Researcher the **Chair of Political Behaviour and Communication**
+
+- PhD in Political and Social Sciences from the [EUI](https://www.eui.eu/en/home)
+
+- Interested in **political behaviour**, **comparative politics** and **quantitative methods**
+
+- You can find more information about me in [my personal website](https://acanalejo.github.io/)
+
+# What is this course about?
+
+##
+
+![](german_elections_2025.png){fig-align="center" width=400 height=500}
+
+<center>Source: ElPaís</center>
+
+##
+
+![](germanydivide_pueyo.gif){fig-align="center" width=550 height=550}
+
+<center>Pueyo [-@tomas_pueyo_tomaspueyo_eastwest_2024]</center>
+
+##
+
+![](figure3_BeckerVoth2023.png){fig-align="center"}
+
+<center>Becker & Voth [-@becker_death_2023]</center>
+
+
+##
+
+::: {.r-stack}
+![](german_elections_since1990.png){style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);"}
+
+![](far-right-failure.png){.fragment style="position: absolute; top: 55%; left: 45%; transform: translate(-50%, -50%) rotate(-5deg);"}
+
+![](far-right-success.png){.fragment style="position: absolute; top: 45%; left: 55%; transform: translate(-50%, -50%) rotate(5deg);"}
+:::
+
+
+## 
+
+<br>
+
+Social norms...
+
+Historical legacies...
+
+Group identity...
+
+. . .
+
+
+![](culture.png)
+
+## About the course
+
+<br>
+
+Traditional approaches to political behaviour has focused on:
+
+  1. Institutions and rationality *(rational choice)*
+  
+  2. Socio-demographic factors *(sociological approach)*
+  
+  3. Psychology and cognition *(psychological approach)*
+
+. . .
+
+**Cultural factors**, despite admittedly pervasive, has been largely ignored in empirical political science until recently
+
+## The course organization I
+
+**Block I.** 28.02.25 / 9:15–17:00
+
+- Introduction to culture and politics: social norms, social identity, cultural origins, transmission and persistence
+
+**Block II.** 21.03.25 / 9:15–15:30
+
+- Political behaviour topics I: vote choice, turnout, attitudes toward minorities
+
+## The course organization II
+
+**Block III.** 11.04.25 / 9:15–17:00
+
+- Political behaviour topics II: ideological stigmatization, (political) cultural change and backlash
+
+**Block IV.** 24.05.25 / 9:15–17:00
+
+- Presentations: *mini-conference*!
+
+  + [The presentations will be organized during the first block]{style="color:grey;"}
+  
+
+## Evaluation I
+
+1. **Attendance**
+
+    - Max. missing two sessions
+
+2. **Mandatory readings**
+
+    - Reading questions (not evaluated)
+    
+    - Additional resources in the syllabus
+    
+3. **Active participation**
+
+    - *"No such thing as a stupid question"*
+
+## Evaluation II
+
+4. **Two response papers**
+    
+    - One for block II and one for block III
+    
+    - Deadline: **previous Friday at noon (12:00)**
+
+    - More information in the [syllabus](https://lms.uzh.ch/auth/RepositoryEntry/17675780109/CourseNode/103233508373250)
+
+## Evaluation III    
+    
+5. **Research proposal**
+
+    - Research paper without results
+    
+    - 2500-3000 words
+    
+    - Deadline: **May 2nd at noon (12:00)**
+    
+    - More information in the [syllabus and in the PolSem guidelines for research](https://lms.uzh.ch/auth/RepositoryEntry/17675780109/CourseNode/103233508373250)
+
+## Evaluation IV
+   
+6. **Research proposal presentation**
+
+    - 15 minutes presentation + 15 minutes of discussion and Q&A (flexibility depending on registered members)
+    
+    - Incorporating feedback to the research proposal
+    
+    - During **Block IV**
+
+7. **Discussion**
+
+    - One discussant for presenter
+
+## 
+
+```{r echo=FALSE, fig.width=6, fig.height=3, fig.align = "center"}
+# Load necessary library
+library(ggplot2)
+
+# Data for grading policy
+grades <- data.frame(
+  Category = c("Participation","Response papers", "Research proposal", "Presentation", "Discussion"),
+  Percentage = c(10, 20, 30, 30, 10)
+)
+
+# Reorder the levels of Category based on Percentage from higher to lower
+grades$Category <- factor(grades$Category, levels = grades$Category[order(-grades$Percentage)])
+
+# Create a bar chart
+ggplot(grades, aes(x = reorder(Category, -Percentage), y = Percentage, fill = Category)) +
+  geom_bar(stat = "identity") +
+  geom_text(aes(label = paste0(Percentage, "%")), vjust = -0.5) +  # Add percentage labels
+  theme_minimal() +
+  labs(title = "Grading Policy Breakdown", x = "Category", y = "Percentage") +  # Remove x-axis label
+  scale_fill_brewer(palette = "Set2") +
+  ylim(0,50) +
+  theme(legend.position = "right",  # Add legend for categories
+        legend.title = element_blank(),  # Remove legend title
+        axis.text.x = element_blank(),  # Remove x-axis text
+        plot.title = element_text(hjust = 0.5))  # Center title
+```
+
+## In summary...
+
+<br>
+
+Culture as an **overlooked dimension to** ***unpack***
+
+<br>
+
+We will study how...
+
+- Culture **co-evolves** with institutions and behaviour
+
+- Culture is intertwined with many **political phenomena**
+
+. . .
+
+...and we'll delve into **your political topics of interest** from a cultural perspective!
+
+
+## Thank you! 
+
+
+<br>
+
+<br>
+
+I hope to see many of you **this Friday, 28th** :smile:
+
+##
+
+
+<br>
+
+![](person_question.png){fig-align="center"}
+
+# References
+

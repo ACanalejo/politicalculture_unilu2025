@@ -221,10 +221,21 @@ This block introduces the conceptual framework of the course. It discusses the n
 
 Required readings:
 
+Required readings:
+
 - Henrich, J., Heine, S. J., & Norenzayan, A. (2010). The weirdest people in the world? Behavioral and Brain Sciences, 33 (2–3), 61–83, discussion 83–135.
 
 - Jared Rubin (2020). Culture in Historical Political Economy. [Broadstreet blogpost](https://broadstreet.blog/2020/08/19/culture-in-historical-political-economy/)
 
+Additional readings:
+
+- Alesina, A., & Fuchs-Schündeln, N. (2007). Good-bye lenin (or not?): The effect of communism on people’s preferences. American Economic Review, 97(4), 1507–1528.
+
+- Becker, S. O., & Voth, H.-J. (2023). From the Death of God to the Rise of Hitler [{SSRN} {Scholarly} {Paper}]. https://doi.org/10.2139/ssrn.4622026
+
+- Lee, M. M., Zhang, N., & Herchenroeder, T. (2024). From pluribus to unum? The civil war and imagined sovereignty in nineteenth-century america. American Political Science Review, 118(1), 127–143.
+
+- Vadlamannati, K. C., & Brazys, S. (2023). Does cultural diversity hinder the implementation of IMF-supported programs? An empirical investigation. The Review of International Organizations, 18(1), 87–116.
 
 #### Session 2. A scientific approach to culture (28.02.25 / 11:00–12:30) 
 
@@ -236,9 +247,29 @@ Required readings:
 
 Additional readings:
 
+- Almond, Gabriel Abraham, and Sidney Verba. "The civic culture: Political attitudes and democracy in five nations." (2015): 1-576.
+
+- Boyd, R., & Richerson, P. J. (1987). The evolution of ethnic markers. Cultural Anthropology, 2(1), 65–79.
+
+- Cohen, A. B., Wu, M. S., & Miller, J. (2016). Religion and culture: Individualism and collectivism in the east and west. Journal of Cross-Cultural Psychology, 47(9), 1236–1249.
+
+- Cohen, D., Nisbett, R. E., Bowdle, B. F., & Schwarz, N. (1996). Insult, aggression, and the southern culture of honor: An" experimental ethnography.". Journal of Personality and Social Psychology, 70(5), 945.
+
 - Bail, C. A. (2014). The cultural environment: Measuring culture with big data. Theory and Society, 43(3), 465–482.
 
+- Cao, Y., Zhou, L., Lee, S., Cabello, L., Chen, M., & Hershcovich, D. (2023). Assessing cross-cultural alignment between ChatGPT and human societies: An empirical study. arXiv preprint arXiv:2303.17466.
+
 - D’Andrade, R. (2008). Some kinds of causal powers that make up culture. In *Explaining Culture Scientifically*, 19-36.
+
+- Haidt, J., Koller, S. H., & Dias, M. G. (1993). Affect, culture, and morality, or is it wrong to eat your dog? Journal of Personality and Social Psychology, 65(4), 613.
+
+- Kitayama, S., Duffy, S., Kawamura, T., & Larsen, J. T. (2003). Perceiving an object and its context in different cultures: A cultural look at new look. Psychological Science, 14(3), 201–206.
+
+- Lenz, G. S. (2009). Learning and opinion change, not priming: Reconsidering the priming hypothesis. American Journal of Political Science, 53(4), 821–837.
+
+- Miyamoto, Y., Nisbett, R. E., & Masuda, T. (2006). Culture and the physical environment: Holistic versus analytic perceptual affordances. Psychological Science, 17(2), 113–119.
+
+- Putnam, R. D. (1994). Making democracy work: Civic traditions in modern Italy. Princeton university press.
 
 #### Session 3. Social norms and social identity (28.02.25 / 13:45–15:15) 
 
