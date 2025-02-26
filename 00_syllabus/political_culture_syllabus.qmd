@@ -317,7 +317,7 @@ Required readings:
 
 - Henrich, J. (2015). *The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter*. **Ch. 1-2**
 
-- Lena, J. C., Lizardo, O., McDonnell, T. E., Mische, A., Tavory, I., Wherry, F. F. V., ... & Frye, M. (2019). *Measuring culture*. Columbia University Press. **Introduction & Conclusion**
+- Bail, C. A. (2014). The cultural environment: Measuring culture with big data. Theory and Society, 43(3), 465–482.
 
 Additional readings:
 
@@ -325,19 +325,19 @@ Additional readings:
 
 - Boyd, R., & Richerson, P. J. (1987). The evolution of ethnic markers. Cultural Anthropology, 2(1), 65–79.
 
+- Cao, Y., Zhou, L., Lee, S., Cabello, L., Chen, M., & Hershcovich, D. (2023). Assessing cross-cultural alignment between ChatGPT and human societies: An empirical study. arXiv preprint arXiv:2303.17466.
+
 - Cohen, A. B., Wu, M. S., & Miller, J. (2016). Religion and culture: Individualism and collectivism in the east and west. Journal of Cross-Cultural Psychology, 47(9), 1236–1249.
 
 - Cohen, D., Nisbett, R. E., Bowdle, B. F., & Schwarz, N. (1996). Insult, aggression, and the southern culture of honor: An" experimental ethnography.". Journal of Personality and Social Psychology, 70(5), 945.
-
-- Bail, C. A. (2014). The cultural environment: Measuring culture with big data. Theory and Society, 43(3), 465–482.
-
-- Cao, Y., Zhou, L., Lee, S., Cabello, L., Chen, M., & Hershcovich, D. (2023). Assessing cross-cultural alignment between ChatGPT and human societies: An empirical study. arXiv preprint arXiv:2303.17466.
 
 - D’Andrade, R. (2008). Some kinds of causal powers that make up culture. In *Explaining Culture Scientifically*, 19-36.
 
 - Haidt, J., Koller, S. H., & Dias, M. G. (1993). Affect, culture, and morality, or is it wrong to eat your dog? Journal of Personality and Social Psychology, 65(4), 613.
 
 - Kitayama, S., Duffy, S., Kawamura, T., & Larsen, J. T. (2003). Perceiving an object and its context in different cultures: A cultural look at new look. Psychological Science, 14(3), 201–206.
+
+- Lena, J. C., Lizardo, O., McDonnell, T. E., Mische, A., Tavory, I., Wherry, F. F. V., ... & Frye, M. (2019). *Measuring culture*. Columbia University Press.
 
 - Lenz, G. S. (2009). Learning and opinion change, not priming: Reconsidering the priming hypothesis. American Journal of Political Science, 53(4), 821–837.
 
