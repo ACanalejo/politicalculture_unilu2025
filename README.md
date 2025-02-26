@@ -275,11 +275,13 @@ Additional readings:
 
 Required readings:
 
-- Bicchieri, C. (2016). Norms in the wild: How to diagnose, measure, and change social norms. Oxford University Press. **Ch. 1**
+- Valentim, V. (2023). Social Norms (Entry for the Encyclopedia of Political Sociology).
 
 - Huddy, L. (2001). From Social to Political Identity: A Critical Examination of Social Identity Theory. Political Psychology, 22(1), 127–156. https://doi.org/10.1111/0162-895X.00230
 
 Additional readings:
+
+- Bicchieri, C. (2016). Norms in the wild: How to diagnose, measure, and change social norms. Oxford University Press. **Ch. 1**
 
 - Cialdini, R. B., & Trost, M. R. (1998). Social influence: Social norms, conformity and compliance. In *The Handbook of Social Psychology*. Wiley.
 
@@ -287,13 +289,9 @@ Additional readings:
 
 - Tajfel, H. (1982). Social Psychology of Intergroup Relations. Annual Review of Psychology, 33(1), 1–39. https://doi.org/10.1146/annurev.ps.33.020182.000245
 
-- Valentim, V. (2023). Social Norms (Entry for the Encyclopedia of Political Sociology).
-
 #### Session 4. Cultural origins, evolution and persistence (28.02.25 / 15:30–17:00) 
 
 Required readings:
-
-- Axelrod, R. (1997). The dissemination of culture: A model with local convergence and global polarization. Journal of Conflict Resolution, 41(2), 203–226.
 
 - Lowes, Sara. (2022).“Culture in Historical Political Economy”. National Bureau of Economic Research, no. w30511.
 
@@ -302,6 +300,8 @@ Additional readings:
 - Alesina, A., Giuliano, P., & Nunn, N. (2013). On the origins of gender roles: Women and the plough. The Quarterly Journal of Economics, 128(2), 469–530.
 
 - Axelrod, R. (1986). An Evolutionary Approach to Norms. American Political Science Review, 80(4), 1095–1111. https://doi.org/10.2307/1960858
+
+- Axelrod, R. (1997). The dissemination of culture: A model with local convergence and global polarization. Journal of Conflict Resolution, 41(2), 203–226.
 
 - Bisin, A., & Verdier, T. (2011). The Economics of Cultural Transmission and Socialization. In J. Benhabib, A. Bisin, & M. O. Jackson (Eds.), Handbook of Social Economics (Vol. 1, pp. 339–416). North-Holland. https://doi.org/10.1016/B978-0-444-53187-2.00009-7
 
