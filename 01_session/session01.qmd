@@ -1,0 +1,408 @@
+---
+title: "Introduction"
+subtitle: "Session 01"
+author: "Culture & Politics"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/polcul.bib
+csl: ../00_bibliography/apa.csl
+toc: true
+toc-depth: 1
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme:
+      - default
+      - custom.scss
+    logo: ../00_images/logo_unilu.png
+    footer: | 
+         Hauptseminar - Spring Term 2025
+    title-slide-attributes:
+      data-background-image: "../00_images/unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: true
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+    slide-number: true
+
+---
+
+# Introduction
+
+## About me
+
+-   Postdoctoral researcher at the project [DIGIPOL](https://www.unilu.ch/en/faculties/faculty-of-humanities-and-social-sciences/institutes-departements-and-research-centres/department-of-political-science/research/digitalization-and-political-conflict-parties-voters-and-electoral-alignment-digipol/#section=c122045) and Senior Researcher the **Chair of Political Behaviour and Communication**
+
+-   PhD in Political and Social Sciences from the [EUI](https://www.eui.eu/en/home)
+
+-   Interested in **political behaviour**, **comparative politics** and **quantitative methods**
+
+-   Originally from the [city with the most UNESCO heritage sites in the world](https://www.architecturaldigest.com/story/cordoba-spain-has-most-unesco-world-heritage-sites)
+
+-   More in [my personal website](https://acanalejo.github.io/)
+
+## Let's start with a quick quiz!
+
+![](mentimeter_qr_code.png)
+
+## And let's meet each other!
+
+. . .
+
+<br>
+
+What is your...
+
+-   **Name**?
+
+-   **Background**?
+
+-   **Expectation** from this course?
+
+# What is this course about?
+
+##
+
+![](german_elections_2025.png){fig-align="center" width=400 height=500}
+
+<center>Source: ElPaís</center>
+
+##
+
+![](germanydivide_pueyo.gif){fig-align="center" width="550" height="550"}
+
+<center>Pueyo [-@tomas_pueyo_tomaspueyo_eastwest_2024]</center>
+
+##
+
+![](fig1_AlesinaFuch2007.png){fig-align="center"}
+
+<center>Alesina & Fuchs [-@alesina2007good]</center>
+
+##
+
+![](figure3_BeckerVoth2023.png){fig-align="center"}
+
+<center>Becker & Voth [-@becker_death_2023]</center>
+
+## Politics and culture
+
+<br>
+
+-   What do you understand by **politics**?
+
+-   What do you understand by **political behavior**?
+
+. . .
+
+-   What do you understand by [**culture**]{style="color:red;"}?
+
+## Why culture?
+
+<br>
+
+**Traditional approaches** to political behavior has focused on:
+
+  1. Institutions and rationality *(rational choice)*
+  
+  2. Socio-demographic factors *(sociological approach)*
+  
+  3. Psychology and cognition *(psychological approach)*
+
+. . .
+
+[**Culture**]{style="color:red;"}, despite admittedly *pervasive*, has been largely ignored in **empirical political science** until recently
+
+## The stronger presence of culture in political science
+
+  1.  New **methods** (i.e., identification revolution and machine learning)
+
+  2.  More **data** (i.e., digitalization of large corpora of text, including archival data)
+
+##
+
+![](fig1_lee23.png){fig-align="center"}
+
+<center>Lee et al [-@lee2024pluribus]</center>
+
+## The stronger presence of culture in political science
+
+  1.  New **methods** (i.e., identification revolution and machine learning)
+
+  2.  More **data** (i.e., digitalization of large corpora of text, including archival data)
+  
+  3.  **Historical turn** of empirical social science (e.g., origins, persistence, "stickiness")
+
+
+##
+
+![](abstract_vadlamannatibrazys.png){fig-align="center"}
+
+<center>Vadlamannati & Brazys [-@vadlamannati2023does]</center>
+
+## The stronger presence of culture in political science
+
+  1.  New **methods** (i.e., identification revolution and machine learning)
+
+  2.  More **data** (i.e., digitalization of large corpora of text, including archival data)
+  
+  3.  **Historical turn** of empirical social science (e.g., origins, persistence, "stickiness")
+
+  4.  **Failing answers** (e.g., external validity concerns, replication crisis)
+
+## The WEIRD realization
+
+<br>
+
+. . .
+
+***Western, Educated, Industrialized, Rich, and Democratic (WEIRD)*** societies
+
+-   Replication crisis in psychology and the social sciences unveiled
+
+-   Influential paper: Henrich et al [-@henrich_weirdest_2010]
+
+## What WEIRD differences do Henrich et al find?
+
+. . .
+
+- **Visual perception** (large vs small scale societies)
+
+- **Fairness and cooperation in decision-making** (large vs small scale societies)
+
+- **Anti-social punishment** (Western vs "non-western" societies)
+
+- **Individualism** (contemporary US vs. the rest of the world)
+
+Etc.
+
+## Culture as an overlooked dimension to unpack
+
+Culture in modern **political science** is undergoing a process of:
+
+  1. Conceptualization
+  
+  2. Theorization
+    
+  3. Operationalization
+
+. . .
+
+![](challenge.png){fig-align="center"}
+
+# The course organization
+
+## Schedule I
+
+<br>
+
+**Block I.** 28.02.25 / 9:15–17:00
+
+- Introduction to culture and politics: social norms, social identity, cultural origins, transmission and persistence
+
+**Block II.** 21.03.25 / 9:15–15:30
+
+- Political behaviour topics I: vote choice, turnout, attitudes toward minorities
+
+## Schedule II
+
+<br>
+
+**Block III.** 11.04.25 / 9:15–17:00
+
+- Political behaviour topics II: ideological stigmatization, (political) cultural change and backlash
+
+**Block IV.** 24.05.25 / 9:15–17:00
+
+- Presentations: *mini-conference*!
+
+## Teaching policy
+
+-   This course is a **mixed** between a seminar and a lecture
+
+-   Thus, I expect you to have read the **mandatory readings** and to **participate**
+
+-   I will introduce the topic and guide the discussion, but you should actively pursue the **debate**
+
+. . .
+
+-   The main drivers of the debate will be the readings, but we can (will) deviate from them, the goal is to develop **critical thinking**!
+
+## Course requirements
+
+- Only English as a formal requirements
+
+- Knowledge of **quantitative methods** is **recommended**
+
+- Knowledge of political science is an asset
+
+![](disclaimer.png){fig-align="center" fig-align="center" width=500 height=250}
+
+## Integration and interaction policy
+
+<br>
+
+-   Equal participation will be actively promoted
+
+-   Please use gender neutral language whenever possible
+
+. . .
+
+-   **Discrimination or bullying of any type is** [***strictly forbidden***]{style="color:red;"}
+
+## Artificial Intelligence (AI) policy
+
+<br>
+
+- AI use is permitted
+
+- However, AI must augment, not substitute humans
+
+- Obligation to declare AI use for every assignment (i.e., **cheating** will be punished)
+
+## Evaluation I
+
+1. **Attendance**
+
+    - Max. two missing sessions
+
+2. **Mandatory readings**
+
+    - Reading questions (not evaluated)
+    
+    - Additional resources in the syllabus
+    
+3. **Active participation**
+
+    - *"No such thing as a stupid question"*
+    
+## Evaluation II
+
+4. **Two response papers**
+
+    - *Not a summary!*
+    
+    - 500-700 words
+    
+    - One for block II and one for block III
+    
+    - Deadline: **previous Friday at noon (12:00)**
+
+    - More information in the [syllabus](https://lms.uzh.ch/auth/RepositoryEntry/17675780109/CourseNode/103233508373250)
+
+## Evaluation III
+
+5. **Research proposal**
+
+    - Research paper without results, but it must be feasible
+    
+    - 2500-3000 words
+    
+    - Deadline: **May 2nd at noon (12:00)**
+    
+    - Two additional *not for evaluation* deadlines: "Research question" (March 20th) and "Research proposal outline (April 10th)"
+    
+    - More information in the [syllabus and in the PolSem guidelines for research](https://lms.uzh.ch/auth/RepositoryEntry/17675780109/CourseNode/103233508373250)
+    
+## Evaluation IV
+
+6. **Research proposal presentation**
+
+    - 15 minutes presentation + 15 minutes of discussion and Q&A (flexibility depending on registered members)
+    
+    - Incorporating feedback to the research proposal
+    
+    - During **Block IV**
+
+7. **Discussion**
+
+    - One discussant for presenter
+    
+    - It must be prepared in advance and includes constructive feedback (e.g., sandwhich technique)
+
+## 
+
+```{r echo=FALSE, fig.width=6, fig.height=3, fig.align = "center"}
+# Load necessary library
+library(ggplot2)
+
+# Data for grading policy
+grades <- data.frame(
+  Category = c("Participation","Response papers", "Research proposal", "Presentation", "Discussion"),
+  Percentage = c(10, 20, 30, 30, 10)
+)
+
+# Reorder the levels of Category based on Percentage from higher to lower
+grades$Category <- factor(grades$Category, levels = grades$Category[order(-grades$Percentage)])
+
+# Create a bar chart
+ggplot(grades, aes(x = reorder(Category, -Percentage), y = Percentage, fill = Category)) +
+  geom_bar(stat = "identity") +
+  geom_text(aes(label = paste0(Percentage, "%")), vjust = -0.5) +  # Add percentage labels
+  theme_minimal() +
+  labs(title = "Grading Policy Breakdown", x = "Category", y = "Percentage") +  # Remove x-axis label
+  scale_fill_brewer(palette = "Set2") +
+  ylim(0,50) +
+  theme(legend.position = "right",  # Add legend for categories
+        legend.title = element_blank(),  # Remove legend title
+        axis.text.x = element_blank(),  # Remove x-axis text
+        plot.title = element_text(hjust = 0.5))  # Center title
+```
+
+## Hauptseminar/masterseminar paper
+
+<br>
+
+-   6 extra credits
+
+-   Between 5000-7000 words (haupt seminar paper) and 7000-9000 words (master seminar paper)
+
+-   Outline submission deadline: **May 9th 2025**
+
+-   Paper submission deadline: **September 1st 2025** (orientative)
+
+-   See [PolSem guidelines for research](https://lms.uzh.ch/auth/RepositoryEntry/17675780109/CourseNode/103233508373250)
+
+## Office hours
+
+<br>
+
+-   No official office hours since this is a block seminar
+
+-   Just write me an email and we will schedule a meeting (normally in max. one week time): [alvaro.canalejo@unilu.ch](alvaro.canalejo@unilu.ch)
+
+-   My office: **room 3.B14**
+
+## Let's organize the mini-conference!
+
+![](conference.png){fig-align="center"}
+
+# Conclusion
+
+##
+
+![](questions.png){fig-align="center"}
+
+## Thanks :slightly_smiling_face:
+
+<br>
+
+<br>
+
+See you here at **11:00**!
+
+# References

@@ -1,0 +1,414 @@
+---
+title: "A Scientific Approach to Culture"
+subtitle: "Session 02"
+author: "Culture & Politics"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/polcul.bib
+csl: ../00_bibliography/apa.csl
+toc: true
+toc-depth: 1
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme:
+      - default
+      - custom.scss
+    logo: ../00_images/logo_unilu.png
+    footer: | 
+         Hauptseminar - Spring Term 2025
+    title-slide-attributes:
+      data-background-image: "../00_images/unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: true
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+    slide-number: true
+
+---
+
+# Introduction
+
+## Attention styles
+
+![](fig1_miyamoto06.png){fig-align="center"}
+
+<center>Miyamoto et al [-@miyamoto2006culture]</center>
+
+## Perception
+
+![](fig1_kitayama.png){fig-align="center"}
+
+<center>Kitayama et al [-@kitayama2003perceiving]</center>
+
+## Perception
+
+![](fig3_kitayama.png){fig-align="center"}
+
+<center>Kitayama et al [-@kitayama2003perceiving]</center>
+
+## Morality
+
+![](haidt93.png){fig-align="center"}
+
+<center>Haidt et al [-@haidt1993affect]</center>
+
+## Morality
+
+![](tab1_haidt93.png){fig-align="center"}
+
+<center>Haidt et al [-@haidt1993affect]</center>
+
+## How are the results of the previous studies explained by culture?
+
+<br>
+
+![](person_question.png){fig-align="center"}
+
+##
+
+![](abstract_cohen2016.png){fig-align="center"}
+
+<center>Cohen et al [-@cohen2016religion]</center>
+
+# What is culture?
+
+## The (traditional) sociological approach
+
+-   The scientific study of [meaning]{style="color:red;"} (i.e., **"the mean of meaning"**)
+
+    - Symbols, rituals and practices
+
+-   Building upon anthropology and ethnographic studies
+
+    - Idiosyncratic knowledge with valuable descriptive insights (e.g., description of small non-Western communities)
+
+
+## The (traditional) sociological approach
+
+-   Traditionally, interpretativist/**constructivist approach**:
+
+    -   There can be no measurement of culture without interpretation
+
+    -   **Measuring issues**: *subjective* vs *objective* reality
+
+. . .
+
+- More recently, realist blend and openness to cross-methodological approaches
+
+## New sociological approaches
+
+<br>
+
+> "Rather than seeking to compel the field to converge around a set of standardized measures, this book instead advocates for an iterative approach that embraces diverse measurement strategies and specifies the research questions to which each strategy is most usefully applied." [@Mohr2020]
+
+## New sociological approaches
+
+<br>
+
+-   Culture only has [causal force]{style="color:red;"} when it generates a set of **norms** to enforce it [@dandrade_kinds_2008] [(*more on session 3*)]{style="color:grey;"}
+
+**Culture is too broad**: it says too much and too little as to be analytically useful
+
+. . .
+
+<br>
+
+...instead, **specific forms** to be studied
+
+##
+
+![](fig5_cohen96.png){fig-align="center"}
+
+<center>Cohen et al [-@cohen1996insult]</center>
+
+## The biological approach
+
+<br>
+
+-   Culture as a **cumulative endeavour**
+
+-   The role of our larger brain, extended childhood and before death life: space to store, time to learn and time to teach
+
+-   Natural selection favouring better [**cultural learners**]{style="color:red;"}
+
+-   The generation of social norms as a process of **self-domestication**: prosocial, dociles, etc
+
+-   Innovation depends more on **sociability** than in our intellect
+
+## The biological approach
+
+<br>
+
+-   **Culture-gene co-evolution**
+
+    -   The cultures that adapt better are those that survive
+
+##
+
+![](fig2_cohen96.png){fig-align="center"}
+
+<center>Cohen et al [-@cohen1996insult]</center>
+
+## The biological approach
+
+<br>
+
+-   **Culture-gene co-evolution**
+
+    -   The cultures that adapt better are those that survive
+
+    -   [Selective and preferential learning]{style="color:red;"} following cues: prestige, dominance, success, skills, sex and ethnicity
+
+. . .
+
+**What are the political and sociological implications of cues?**
+
+##
+
+![](fig1_lenz09.png){fig-align="center"}
+
+<center>Lenz [-@lenz2009learning]</center>
+
+## Our definition of culture
+
+<br>
+
+> "... the large body of practices, techniques, heuristics, tools, motivations, values, and beliefs that we all acquire while growing up, mostly by learning from other people." [@Henrich2015]
+
+## The biological approach
+
+-   Cultural manifestations:
+
+    -   Tastes
+
+    -   Motivations
+
+    -   Beliefs
+
+    -   Strategies and standards for punishment and reward
+
+. . .
+
+-   **How are these components normally treated** in traditional social sciences? [(e.g., preferences in economics)]{style="color:grey;"}
+
+## The biological approach summarized
+
+<br>
+
+> We don't have tools because we are smart, but we are smart because thanks to culture, we have these tools [@Henrich2015]
+
+. . .
+
+-   Individual vs [social learning]{style="color:red;"}
+
+    -   **Cultural learning** as a form of social learning [(i.e., watching others)]{style="color:grey;"}
+
+## The economic approach
+
+<br>
+
+[**Rational Choice Theory (RCT):**]{style="color:red;"}
+
+-   People make ***(optimal)*** decisions, given **preferences**, **beliefs** and **constraints**
+
+    - A decision is (Pareto) ***optimal*** when it maximizes [utility]{style="color:red;"}
+
+## Is culture compatible with rationality?
+
+<br>
+
+![](person_question.png){fig-align="center"}
+
+## The economic approach
+
+<br>
+
+[**Rational Choice Theory (RCT):**]{style="color:red;"}
+
+-   People make ***(optimal)*** decisions, given **preferences**, **beliefs** and **constraints**
+
+    - A decision is (*Pareto*) ***optimal*** when it maximizes [utility]{style="color:red;"}
+
+-   If people [**behave differently**]{style="color:red;"} in different societies, that is due to ***differences in one of these factors***
+
+
+## The economic approach
+
+
+[**Relaxing RCT:**]{style="color:red;"}
+
+- **Preferences** are [not fixed]{style="color:red;"} anymore! [(e.g., others, the environment)]{style="color:grey;"}
+
+-   [Rules-of-thumb]{style="color:red;"} can be rational if choices are too cognitively demanding and/or too noisy [@boyd1987evolution]
+
+![](thumb.png){fig-align="center"}
+
+## The economic approach
+
+Two equilibria, both *Pareto* Optimal, which one will prevail?
+
+![](battle_sexes.png){fig-align="center"}
+
+. . .
+
+:point_right: Culture can explain **why in some societies or contexts some** [**equilibria**]{style="color:red;"} **are more likely than others**
+
+# Political culture
+
+##
+
+![](civic_culture.png){fig-align="center"}
+
+<center>Almond & Verba [-@almond1963civic]</center>
+
+##
+
+![](democracy_work.png){fig-align="center"}
+
+<center>Putnam [-@putnam1994making]</center>
+
+##
+
+![](fig4.4_putnam.png){fig-align="center"}
+
+<center>Putnam [-@putnam1994making]</center>
+
+##
+
+![](fig5.1_putnam.png){fig-align="center"}
+
+<center>Putnam [-@putnam1994making]</center>
+
+# How can we study culture scientifically?
+
+## Culture in modern social sciences
+
+<br>
+
+. . .
+
+New **data and methods**:
+
+- Econometrics
+
+- Machine learning
+
+- Archival data
+
+- Text-as-data
+
+- Images-as-data
+
+## Culture in modern social sciences
+
+<br>
+
+New **approaches**:
+
+- Historical approaches ([*more on session 4*]{style="color:grey;"})
+
+- Experimental approaches ([*over Blocks II and III*]{style="color:grey;"})
+
+. . .
+
+**Challenges**:
+
+  1.  Data can be overwhelming and mostly untidy [(i.e., costly)]{style="color:grey;"}
+
+  2.  Difficulties to connect data and theory [(i.e., validity issues)]{style="color:grey;"}
+
+## From culture to cultural elements
+
+. . .
+
+- **Preferences**: dispositions to act in a particular way in a specific situation
+
+- **Beliefs**: probabilities assigned on others' actions or state of affairs
+
+- **Heuristics**: rules of thumb for decision-making
+
+- **Moral norms**: patterns of behavior sustained by beliefs about what is the correct thing to do
+
+- **Social norms**: patterns of behavior sustained by beliefs about what other think is the correct think to do 
+
+## Measurement requires creativity
+
+
+. . .
+
+<br>
+
+Look for [**observable implications!**]{style="color:red;"}
+
+<br>
+
+![](biconditional-equivalence-tautology.png){fig-align="center" width=350 height=100}
+
+##
+
+![](fig4.4_putnam.png){fig-align="center"}
+
+<center>Putnam [-@putnam1994making]</center>
+
+## Measurement requires creativity
+
+<br>
+
+Look for [**observable implications!**]{style="color:red;"}
+
+<br>
+
+![](biconditional-equivalence-tautology.png){fig-align="center" width=350 height=100}
+
+
+Many **more** ***examples*** over the **rest of the sessions**!
+
+# Conclusion
+
+## What is culture?
+
+. . .
+
+
+**Preferences, social norms, beliefs and heuristics** common to a [**group**]{style="color:red;"} and transmitted through **social learning**
+
+<br>
+
+. . .
+
+Adapted to the environment, but that does **not** mean **all cultural traits** are **well-adaptative** [*(more on session 4)*]{style="color:grey;"}
+
+<br>
+
+. . .
+
+Modern social sciences exploit **new data and methods** to study culture by looking at **specific cultural manifestations** (i.e. observable implications of a theory)
+
+##
+
+![](questions.png){fig-align="center"}
+
+## Thanks :slightly_smiling_face:
+
+<br>
+
+<br>
+
+See you here at **13:45**!
+
+# References

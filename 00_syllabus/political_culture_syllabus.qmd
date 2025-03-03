@@ -2,8 +2,8 @@
 title: "Culture and Politics"
 subtitle: "Hauptseminar Spring 2025" 
 author: 
-- Hörsaal 5, UniLu Main Building
-thanks: "This course takes inspiration from the courses *Political Culture*, by Elias Dinas at the European University Institute, *Political Culture & Norms: How Societies Change*, by Daniel Bischof at Aarhus University, and *Advanced Topics in Political Economy*, by Amuitz Garmendia at the University Carlos III of Madrid. \\newline \\newline This version of the syllabus: `r format(Sys.time(), '%d %b %Y')`" 
+- Rooms 4.B02/3.B55, UniLu main building
+thanks: "This course takes inspiration from the courses *Political Culture*, by Elias Dinas at the European University Institute, *Political Culture & Norms: How Societies Change*, by Daniel Bischof at Aarhus University, and *Advanced Topics in Political Economy*, by Amuitz Garmendia at the University Carlos III of Madrid. \\newline \\newline Blocks I and IV take place in room 4.B02, UniLu main building, while Blocks II and III take place in room 3.B55, UniLu main building. \\newline \\newline This version of the syllabus: `r format(Sys.time(), '%d %b %Y')`" 
 
 csl: ../00_bibliography/apa.csl
 link-citations: true
@@ -58,13 +58,13 @@ The course is organized as a block seminar that will run during the Spring term 
 
 #### Block dates {.unnumbered}
 
-Block I. Date 28.02.2025 / Time 9:15-17:00
+Block I. Date 28.02.2025 / Time 9:15-17:00 - Room 4.B02
 
-Block II. Date 21.03.2025 / Time 9:15-15:30
+Block II. Date 21.03.2025 / Time 9:15-15:30 - Room 3.B55
 
-Block III. Date 11.04.2025 / Time 9:15-15:30
+Block III. Date 11.04.2025 / Time 9:15-15:30 - Room 3.B55
 
-Block IV. Date 24.05.2025 / Time 9:15-17:00
+Block IV. Date 24.05.2025 / Time 9:15-17:00 - Room 4.B02
 
 
 # Learning Outcomes
@@ -289,7 +289,7 @@ The required readings for this course are listed in the *Course Schedule* sectio
 
 *The list of readings is tentative and may be updated before each block.*
 
-## Block I. Introduction to Political Culture (28.02.25 / 9:15–17:00) {.unnumbered}
+## Block I. Introduction to Political Culture (28.02.25 / 9:15–17:00 - 4.B02) {.unnumbered}
 
 This block introduces the conceptual framework of the course. It discusses the notions of culture, social norms and group identity, exploring how cultural differentiation occurs and persists. This introductory block aims to provide the analytic tools to study political behavior from a cultural perspective. It will allow us to dig into specific topics in blocks II and III. 
 
@@ -389,7 +389,7 @@ Additional readings:
 
 - Talhelm, T., & English, A. S. (2020). Historically rice-farming societies have tighter social norms in China and worldwide. Proceedings of the National Academy of Sciences, 117(33), 19816–19824. https://doi.org/10.1073/pnas.1909909117
 
-## Block II. Topics in Political Culture I (21.03.25 / 9:15–15:30) {.unnumbered}
+## Block II. Topics in Political Culture I (21.03.25 / 9:15–15:30 - 3.B55) {.unnumbered}
 
 This block dives into the study of specific political behavior topics from a cultural perspective. It focuses on three topics: vote choice, electoral turnout and inter-group conflict.
 
@@ -455,7 +455,7 @@ Additional readings:
 
 - Rubenson, D., & Dawes, C. T. (2022). Subtle primes of in-group and out-group affiliation change votes in a large scale field experiment. Scientific Reports, 12(1), 22526.
 
-## Block III. Topics in Political Culture II (11.04.2025 / 9:15–15:30) {.unnumbered}
+## Block III. Topics in Political Culture II (11.04.2025 / 9:15–15:30 - 3.B55) {.unnumbered}
 
 This block digs further into the relationship between culture and politics, exploring how political change can induce cultural change and *vice versa*. It also looks at the opposite: how 'sticky' cultural preferences can contain political change. The goal is to identify patterns of reinforcement and contention between politics and culture.
 
@@ -525,7 +525,7 @@ Additional readings:
 
 - Walter, S. (2021). The backlash against globalization. Annual Review of Political Science, 24, 421–442.
 
-## Block IV. Presentations (24.05.2025  / 9:15–17:00) {.unnumbered}
+## Block IV. Presentations (24.05.2025  / 9:15–17:00 4.B02) {.unnumbered}
 
 In this final block, students will present their research proposals and connect them to the topics studied during the course. If time allows, the final session will include a feedback loop and a wrapping-up discussion.
 

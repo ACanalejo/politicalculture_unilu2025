@@ -1,0 +1,363 @@
+---
+title: "Social Norms and Social Identity"
+subtitle: "Session 03"
+author: "Culture & Politics"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/polcul.bib
+csl: ../00_bibliography/apa.csl
+toc: true
+toc-depth: 1
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme:
+      - default
+      - custom.scss
+    logo: ../00_images/logo_unilu.png
+    footer: | 
+         Hauptseminar - Spring Term 2025
+    title-slide-attributes:
+      data-background-image: "../00_images/unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: true
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+    slide-number: true
+
+---
+
+# Introduction
+
+## Let's play a game!
+
+<br>
+
+![](fun_flags_mod.png){fig-align="center"}
+
+<br>
+
+---
+
+![](mentimeter_qr_code.png)
+
+
+## So what happened here?
+
+![](mistery_box.png){fig-align="center"}
+
+## What do you think would occur if we make this game...
+
+
+<br>
+
+. . .
+
+...in a very small and tight rural community?
+
+<br>
+
+. . .
+
+...among a group of left-wing activists?
+
+<br>
+
+. . .
+
+...in your country?
+
+## The program for this session
+
+<br>
+
+Two crucial elements to understand the role of culture in politics:
+
+  1. **Social norms**
+
+  2. **Social identity**
+
+# Social norms
+
+---
+
+**Collective behavior**: behavioral patterns shared by a group of individuals
+
+  1. *Independent*: purely determined by individual reasons (natural or economics)
+  
+  2. *Interdependent*: influenced by other people's actions or opinions (factual or inferred)
+
+. . .
+
+> "Habits, social customs, and moral injunctions are independent, in the sense that they involve undertaking certain actions regardless of what others do or expect us to do." [@bicchieri_norms_2016]
+
+---
+
+**Preferences**: dispositions to act in a particular way in a specific situation.
+
+> "...in a choice situation, if I choose A over B it must be the case that, all things considered, I prefer A. Preference and choice are thus strictly connected." [@bicchieri_norms_2016]
+
+. . .
+
+[Preferences &ne; attitudes]{style="color:red;"}
+
+. . .
+
+**Attitudes**: evaluative belief toward some object, person or behavior.
+
+- *Prudential* (rational) or *moral* (ethical) motivations
+
+---
+
+**Social preferences** take into account others' behavior, beliefs and outcomes.They are **unconditional** if not influenced by *expectations* about others' beliefs or behavior, and [**conditional**]{style="color:red;"} otherwise.
+
+. . .
+
+<br>
+
+**Interdependent actions** always involve *socially conditional preferences*.
+
+- **(Social) Expectations**: *factual* or *normative* beliefs about others.
+
+---
+
+![](tab1.1_bicchieri.png){fig-align="center"}
+
+<center>Bicchieri [-@bicchieri_norms_2016]</center>
+
+---
+
+![](tab1.2_bicchieri_red.png){fig-align="center"}
+
+<center>Bicchieri [-@bicchieri_norms_2016]</center>
+
+## More bolts and nuts
+
+- **Custom**: a pattern of behavior such that individuals (unconditionally) prefer to conform to it because it meets their needs [(e.g., using an umbrella when it rains)]{style="color:grey;"}.
+
+- **Reference network**: the range of people whom we care about when making particular decisions [(i.e., we do not care about everyone's beliefs!)]{style="color:grey;"}.
+
+- **Descriptive norm**: a pattern of behavior such that individuals prefer to conform to it on condition that they believe that most people in their reference network conform to it (*empirical expectation*).
+
+---
+
+![](sopranos.png){fig-align="center"}
+
+## Imitation and coordination
+
+- With **imitation**, those I imitate do not expect me to behave like they do and may not even know they are being imitated, so my expectations are [unilateral]{style="color:red;"} [(e.g., fashion)]{style="color:grey;"}.
+
+  + *Informational* and/or *normative* motivations
+
+- The **coordination** motive is very different from imitation, in that expectations are [multilateral]{style="color:red;"} and stem from a desire to harmonize our actions with those of others so that each of our individual goals can be achieved.
+
+  + Importance of *signals* [(e.g., language, traffic lights)]{style="color:grey;"}
+
+---
+
+A preference for following a **descriptive norm** may involve both *informational* and *normative* influences, or the wish to *coordinate* with others, but this preference remains conditional on ***empirical expectations alone***. 
+
+. . .
+
+<br>
+
+This means that ***if these expectations were to change, preferences and behavior would change too***. There is a [causal relationship]{style="color:red;"} between expectations, preferences, and behavior (as opposed to *customs*).
+
+## Social norms (injuctive norms)
+
+. . .
+
+A [rule of behavior]{style="color:red;"} such that individuals prefer to conform to it on condition that **they believe that (a) most people in their reference network conform to it** (*empirical expectation*), and **(b) that most people in their reference network believe they ought to conform to it** (*normative expectation*).
+
+. . .
+
+- The *ought* must be **moral**, not *prudential*.
+
+- A **deviation** (*non-conformity*) to the norm is expected to end up in a **sanction**.
+
+## Compliance
+
+. . .
+
+<br>
+
+Two factors:
+
+  1. **Seriousness of the sanction** (as a function of the *centrality* or *salience* of the norm to social life)
+  
+  2. **Sensitivity to the norm** (as a function of the *invididual personal beliefs*)
+
+---
+
+![](fig1.2_bicchieri.png){fig-align="center"}
+
+
+## Origins and transmission
+
+- **Coordination to achieve collective goals** or **simple descriptive norms** that develop [symbolic meaning]{style="color:red;"} with time [@cialdini2004social]
+
+  + Prosocial orientation in origins
+  
+    + Fostering trust & reciprocity
+  
+  + They can become *maladaptive* as time passes (*sticky*)
+
+## The pluralistic ignorance trap
+
+- **Preference falsification**: *true* and *revealed* preferences may not coincide due to *social norms* [@kuran1987preference]
+
+. . .
+
+- **Pluralistic ignorance**: a cognitive state in which each member of a group believes her [*personal normative beliefs and preferences are different*]{style="color:red;"} from those of similarly situated others, even if [*public behavior is identical*]{style="color:red;"}.
+
+## What are the major implications of this theory of social norms?
+
+. . .
+
+- Social norms can lead to **good or bad equilibria** [@valentim2023social]
+
+- Changing attitudes is not enough to **change behavior**:
+
+  + Change [**reference group**]{style="color:red;"}
+  
+  + Change perceptions of the reference group
+  
+    1. Empirical 
+    
+    2. Normative
+
+# Social identity
+
+## What is identity?
+
+. . .
+
+<br>
+
+"A person sense of one's self" [@akerlof2000economics]
+
+![](mirror.png){fig-align="center" fig-align="center" width=600 height=400}
+
+## Inter-group behaviour
+
+"Whenever individuals belonging to one group interact, *collectively* or *individually*, with another group or its members **in terms of group identification**, we have an instance of inter-group behavior" [@tajfel1982social]
+
+. . .
+
+- Every individual pertains to a series of **social groups**
+
+- However, not every *social ascription* turns into **social identity**
+
+[Group membership &ne; group identification]{style="color:red;"}
+
+## What is social identity?
+
+<br>
+
+. . .
+
+“Self awareness of one’s **objective membership** in the group and a **psychological sense of attachment** to the group” [@conover1984influence]
+
+<br>
+
+...so that it is *part of* ***a person sense of one’s self***
+
+## From group membership to identity
+
+<br>
+
+- **Cognitive motivations**: need for *self-categorization* [@turner1987rediscovering]
+
+  + [Similarity]{style="color:red;"} (*stereotypes*)
+  
+  + [Salience]{style="color:red;"} of categories
+
+- **Psychological motivations**: need for consistency and positive self-esteem [@tajfel1979integrative]
+
+  + [Group status]{style="color:red;"} (*social comparison*)
+
+## Challenges [@huddy2001social]
+
+<br>
+
+- Acquired vs ascribed identities (*individual and group differences*)
+
+- Boundary vs meaning (*group heterogeneity*)
+
+- Shades of group identity
+
+- Identity stability (*lab vs real world*)
+
+## The consequences of social identity
+
+[Conflict theory]{style="color:red;"} (i.e., *minimal intergroup situation*):
+
+- **In-group bias** or favoritism
+
+- **Out-group discrimination** and prejudice
+
+. . .
+
+[Contact theory]{style="color:red;"} conditions:
+
+1. Equal group status
+
+2. Common goals
+
+3. Intergroup cooperation
+
+4. Authority support
+
+---
+
+![](fig3_shayo.png){fig-align="center"}
+
+<center>Shayo [-@shayo2009model]</center>
+
+# Conclusion
+
+## The interplay of social norms and social identity...
+
+<br>
+
+![](person_question.png){fig-align="center"}
+
+## Some theoretical expectations...
+
+- Norms acquire **symbolic meaning** as a **method for social distinctiveness**
+
+- More **tight-knitted social** groups impose **stronger social norms** as social pressure increase
+
+- Since norms vary across groups, they **change** with **social identity change**
+
+- **Inter-group competition** leads to **social norms' reinforcement**
+
+...etc.
+
+------------------------------------------------------------------------
+
+![](questions.png){fig-align="center"}
+
+## Thanks :slightly_smiling_face:
+
+<br>
+
+<br>
+
+See you here at **15:30**!
+
+# References

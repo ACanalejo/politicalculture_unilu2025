@@ -1,0 +1,287 @@
+---
+title: "Cultural Origins, Evolution and Persistence"
+subtitle: "Session 04"
+author: "Culture & Politics"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/polcul.bib
+csl: ../00_bibliography/apa.csl
+toc: true
+toc-depth: 1
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme:
+      - default
+      - custom.scss
+    logo: ../00_images/logo_unilu.png
+    footer: | 
+         Hauptseminar - Spring Term 2025
+    title-slide-attributes:
+      data-background-image: "../00_images/unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: true
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+    slide-number: true
+---
+
+# Introduction
+
+## A brief recap
+
+. . .
+
+- What is **culture**?
+
+. . .
+
+- What are **social norms**?
+
+. . .
+
+- What is **social identity**?
+
+. . .
+
+- Why are [social norms and identity **important for culture**]{style="color:red;"}?
+
+---
+
+<br>
+
+**Social norms** and **identity** are powerful cultural elements that affect (political) behavior, and therefore can be studied to understand the [relationship between politics and culture]{style="color:red;"}
+
+<br>
+
+. . .
+
+As culture, social norms and identities vary...
+
+<br>
+
+...but how **different cultures** are [originated]{style="color:red;"} **in the first place?**
+
+# The origins of culture
+
+---
+
+![](fig1_plough.png){fig-align="center"}
+
+<center>Alesina et al [-@alesina2013origins]</center>
+
+---
+
+![](fig3_plough.png){fig-align="center"}
+
+<center>Alesina et al [-@alesina2013origins]</center>
+
+---
+
+![](fig1_rice.png){fig-align="center"}
+
+<center>Talhelm & English [-@talhelm2020historically]</center>
+
+---
+
+![](fig4_land.png){fig-align="center"}
+
+<center>Michalopolos [-@michalopoulos2012origins]</center>
+
+## The origins of culture
+
+
+Differences in the **social environment** leading to different ***adaptative strategies***: *culture* as a [coordination device]{style="color:red;"}
+
+These strategies leave an imprint in the **behaviour**, **beliefs**, **stratification** and **norms** of a *society*
+
+. . .
+
+Examples:
+
+- Gender roles
+
+- Collectivist vs individualistic views
+
+- Religiosity [(e.g., climatic volatility)]{style="color:grey;"}
+
+---
+
+![](fig1_rain_religion.png){fig-align="center"}
+
+<center>Espín-Sánchez et al. [-@espin2023praying]</center>
+
+
+
+# Cultural evolution and persistence
+
+---
+
+![](fig1_axelrod.png){fig-align="center"}
+
+<center>Axelrod [-@axelrod1997dissemination]</center>
+
+---
+
+
+![](models_useful_wrong.png){fig-align="center"}
+
+
+## Why does culture persist?
+
+. . .
+
+- **Tradition**: the transmission of *culture* [*(socially learned behavior)*]{style="color:grey;"} across *generations* [@nunn2022dynamics]
+
+  + [Remember, culture as a ***cumulative endevour***!]{style="color:grey;"}
+
+![](tradition.png){fig-align="center" fig-align="center" width=700 height=300}
+
+## And why is culture so sticky?
+
+. . .
+
+- **World change** alters the conditions of the *environment*
+
+- A [mismatch]{style="color:red;"} can occur when the action dictated by *tradition* and the action that is *best* for the **current environment differ**
+
+. . .
+
+
+**Dual process thinking**: rationality vs [heuristics]{style="color:red;"}, the latter being *less costly*
+
+. . .
+
+- In a situation of *mismatch*, there will be **disagreement** between *traditionalists* and *non-traditionalists* [*(first movers)*]{style="color:grey;"}
+
+## Why traditionalists?
+
+. . .
+
+- Remember the *stickiness* of [**norms**]{style="color:red;"} and the importance of [**social identity**]{style="color:red;"} for **one's self-concept**!
+
+. . .
+
+<br>
+
+![](conservatism.png){fig-align="center" fig-align="center" width=700 height=300}
+
+---
+
+Ultimately, behaviour should converge up to the most **optimal solution**
+
+- However, [disagreement]{style="color:red;"} can provoke **conflict** and **alter the conditions** of the environment *on its own*!
+
+. . .
+
+<br>
+
+:point_right: [***Dynamic***]{style="color:red;"} rather than *static* **culture** with [***diversity***]{style="color:red;"} across *social conditions*, although with certain *degree of* ***convergence*** and [***bias towards stability***]{style="color:red;"} 
+
+---
+
+![](fig1_slaves.png){fig-align="center"}
+
+<center>Nunn & Wantchekon [-@nunn2011slave]</center>
+
+# The transmission of culture 
+
+---
+
+"[**Cultural transmission**]{style="color:red;"} as the result of *interactions* between **purposeful socialization** decisions inside the family ([*direct vertical socialization*]{style="color:red;"}) and other socialization processes like **social imitation and learning** which govern *identity formation* ([*oblique and horizontal socialization*]{style="color:red;"})" [@bisin2011economics]
+
+![](interactions.png){fig-align="center" width=300 height=300}
+
+---
+
+1. **Direct vertical socialization** (*parents*)
+
+    - Parental altruism with [imperfect emphathy]{style="color:red;"}
+
+    - **Strategic** depending on *group status* (cultural [substitution]{style="color:red;"} versus [complementarity]{style="color:red;"})
+
+      + Preferences for *conservation*
+  
+      + Preferences for *adaptation*
+
+2. **Oblique horizontal socialization** (*peer groups*)
+
+     - Crucial for [identity formation]{style="color:red;"}
+
+---
+
+![](fig2_catalonia.png){fig-align="center"}
+
+<center>Fernández-Reino & Creighton [-@fernandez2024majority]</center>
+
+---
+
+![](fig3_catalonia.png){fig-align="center"}
+
+<center>Fernández-Reino & Creighton [-@fernandez2024majority]</center>
+  
+---
+
+
+::: columns
+::: {.column width="40%"}
+
+**Complementary** [**mechanisms**]{style="color:red;"}:
+
+  - Geographic spread
+
+  - Homogamous marriage
+  
+  - ***Self-segregation***
+  
+  - ...
+  
+:::
+
+::: {.column width="60%"}
+
+![](self-segregation.png){fig-align="center"}
+
+:::
+:::
+
+---
+
+![](fig2_sorting.png){fig-align="center"}
+
+<center>Brown & Enos [-@brown2021measurement]</center>
+
+# Conclusion
+
+---
+
+![](culture.png){fig-align="center"}
+
+
+##
+
+![](questions.png){fig-align="center"}
+
+## Thanks :slightly_smiling_face:
+
+<br>
+
+<br>
+
+See you here on **March 22nd**!
+
+# References
