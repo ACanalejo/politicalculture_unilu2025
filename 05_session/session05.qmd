@@ -1,0 +1,428 @@
+---
+title: "The Cultural Determinants of Vote Choice"
+subtitle: "Session 05"
+author: "Culture & Politics"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/polcul.bib
+csl: ../00_bibliography/apa.csl
+toc: true
+toc-depth: 1
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme:
+      - default
+      - custom.scss
+    logo: ../00_images/logo_unilu.png
+    footer: | 
+         Hauptseminar - Spring Term 2025
+    title-slide-attributes:
+      data-background-image: "../00_images/unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: true
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+---
+
+# Introduction
+
+## Response papers' feedback
+
+<br>
+
+![](response_papers.png){fig-align="center"}
+
+## Recap and questions
+
+<br>
+
+. . .
+
+- The notion of [culture]{style="color:red;"}
+
+
+- Social [norms]{style="color:red;"}
+
+
+- Social [identity]{style="color:red;"}
+
+
+- Cultural [origins, persistence and transmission]{style="color:red;"}
+
+## Traditional vote choice models
+
+<br>
+
+. . .
+
+- The **sociological** approach [e.g. @lipset1967cleavage]
+
+- The economic approach, i.e. **spatial models** [e.g. @downs1957economic]
+
+- The political **psychology/communication** approach [e.g. @zaller1992nature]
+
+## Traditional views & assumptions
+
+<br>
+
+- The **sociological approach** assumes [groups]{style="color:red;"}
+
+- The **economic** approach assumes [preferences]{style="color:red;"}
+
+- The political **psychology/communication** approach assumes [priors and attachments]{style="color:red;"}
+
+. . .
+
+**Where do groups, preferences, priors and attachments come from?**
+
+. . .
+
+Among others: [***culture***]{style="color:red;"}
+
+
+# Culture and vote choice
+
+## Why is there regional variation in the vote for the radical right? 
+
+[@ziblatt2023wealth]
+
+<br>
+
+. . .
+
+Most research emphasizes **individual-level characteristics**
+
+<br>
+
+. . .
+
+Only recently, [***regional***]{style="color:red;"} focus:
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Economic disparities
+
+- Urban-rural divide 
+:::
+
+::: {.column width="50%"}
+...the *left behind* argument
+:::
+
+::::
+
+
+
+## The argument
+
+<br>
+
+. . .
+
+*Historical* ***center-periphery conflict*** explains support for AfD
+
+<br>
+
+. . .
+
+**[How is it transmitted?]{style="color:red;"}**
+
+. . .
+
+- ***Low status cultural markers*** 
+
+
+- **Collective self-perception** of marginality
+
+
+## The argument
+
+<br>
+
+**[How does it manifest?]{style="color:red;"}**
+
+. . .
+
+- **Anti-establishment** feelings
+
+- **Out-group** hostility
+
+. . .
+
+**[How is it activated?]{style="color:red;"}**
+
+. . .
+
+- Political **mobilization**
+
+- **Exogenous shocks** with *heterogeneous effects*
+
+## Data and measurement
+
+<br>
+
+. . .
+
+[***Dialects***]{style="color:red;"} are ***cultural markers*** associated with different *status*
+
+. . .
+
+- *Der Spiegel* online survey
+
+Information on 725,000 respondents' dialect and hometown used to create a county-level measure of **dialectal distance** form *Hannover*
+
+
+---
+
+![](fig1_ziblatt.png){fig-align="center"}
+
+<center>Ziblatt et al [-@ziblatt2023wealth]</center>
+
+---
+
+## Data and measurement
+
+
+- *Der Spiegel* online survey: contemporary data
+
+Information on 725,000 respondents' dialect and hometown used to create a county-level measure of **dialectal distance** form *Hannover*
+
+- *Deutscher Sprachatlas* (“Atlas of the German Language”): historical data
+
+Survey of over 40,000 elementary schools in the XIXth century
+
+## Methodology
+
+<br>
+
+<center>
+
+$y_{ij} = α + γ_j + τd_{iJ} + β'X_{ij} + ε_{ij}$
+
+</center>
+
+<br>
+
+**$γ$**  -- state fixed effects
+
+**$X'$**  -- county and individual-level covariates (GLES)
+
+## Results I
+
+![](tab1_ziblatt.png){fig-align="center"}
+
+<center>Ziblatt et al [-@ziblatt2023wealth]</center>
+
+## Results II
+
+![](tab2_ziblatt.png){fig-align="center"}
+
+<center>Ziblatt et al [-@ziblatt2023wealth]</center>
+
+## Results III
+
+![](fig2_ziblatt.png){fig-align="center"}
+
+<center>Ziblatt et al [-@ziblatt2023wealth]</center>
+
+## Results IV
+
+![](fig3_ziblatt.png){fig-align="center"}
+
+<center>Ziblatt et al [-@ziblatt2023wealth]</center>
+
+## Conclusions
+
+<br>
+
+
+> "A long-standing field of sociolinguistics has repeatedly demonstrated that speaking is more than a linguistic act; it is a **social act** and correlates with different patterns of **self-presentation, and identification**."
+
+## What are other implications (and limitations) of this study?
+
+<br>
+
+![](group_activity.png){fig-align="center"}
+
+## The historical legacies of land inequality
+
+[@domenech2022long]
+
+<br>
+
+. . .
+
+What are [historical legacies]{style="color:red;"}?
+
+
+. . .
+
+> "...political persistence is conceptualized as a **historical legacy**, where the effect of an extinct cause survives vast economic, social and political transformations"
+
+
+## The argument
+
+<br>
+
+. . .
+
+*Historical* ***agrarian conflict*** explains vote for the left
+
+<br>
+
+. . .
+
+[What scope conditions?]{style="color:red;"}
+
+. . .
+
+- Strong **land inequality**
+
+- **Late industrialization**
+
+## The argument
+
+<br>
+
+[How is it transmitted?]{style="color:red;"}
+
+. . .
+
+> "...the socio-structural element was superseded by industrialization, but the **normative** and **organizational elements** survived."
+
+<br>
+
+**Socially transmitted** values and political orientations
+
+## The case of Spain
+
+![](fig1_cuenca.png){fig-align="center"}
+
+<center>Domènech & Cuenca [-@domenech2022long]</center>
+
+## Data
+
+<br>
+
+**DV:** admin. data on vote for leftist parties (1977-2019), vote intention for leftist parties (1977)
+
+
+**IV:** historical census data on land inequality (1860 and 1930)
+
+**Controls:** geographic, economic and individual-level  socio-demographic and attitudinal controls
+
+## Results I
+
+![](tab1_cuenca.png){fig-align="center"}
+
+<center>Domènech & Cuenca [-@domenech2022long]</center>
+
+## Results II
+
+![](tab2_cuenca.png){fig-align="center"}
+
+<center>Domènech & Cuenca [-@domenech2022long]</center>
+
+## The causal model
+
+![](fig2_cuenca.png){fig-align="center"}
+
+<center>Domènech & Cuenca [-@domenech2022long]</center>
+
+## Results III
+
+![](tab3_cuenca.png){fig-align="center"}
+
+<center>Domènech & Cuenca [-@domenech2022long]</center>
+
+## Transmission mechanisms {auto-animate=true}
+
+. . .
+
+<br>
+
+::: {style="margin-top: 100px;"}
+
+- Church
+
+- Schools
+
+- Family
+
+:::
+
+## Transmission mechanisms {auto-animate=true}
+
+<br>
+
+
+::: {style="margin-top: 100px; font-size: 2em; color: red;"}
+
+[Family]{style="color:red;"}
+
+:::
+
+## Transmission mechanisms {auto-animate=true}
+
+<br>
+
+- Church
+
+- Schools
+
+- [Family]{style="color:red;"}
+
+- *Other* ***potential transmission mechanisms***?
+
+## Results IV
+
+![](fig3_cuenca.png){fig-align="center"}
+
+<center>Domènech & Cuenca [-@domenech2022long]</center>
+
+## What are the implications and limitations of this study?
+
+
+<br>
+
+![](group_activity.png){fig-align="center"}
+
+
+## What cultural elements can you identify in these papers?
+
+<br>
+
+![](person_question.png){fig-align="center"}
+
+# Conclusion
+
+---
+
+![](questions.png){fig-align="center"}
+
+## Thanks :slightly_smiling_face:
+
+<br>
+
+<br>
+
+See you here at **11:00**!
+
+# References

@@ -1,0 +1,328 @@
+---
+title: "Conflicting Identities and Inter-group Relations"
+subtitle: "Session 07"
+author: "Culture & Politics"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/polcul.bib
+csl: ../00_bibliography/apa.csl
+toc: true
+toc-depth: 1
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme:
+      - default
+      - custom.scss
+    logo: ../00_images/logo_unilu.png
+    footer: | 
+         Hauptseminar - Spring Term 2025
+    title-slide-attributes:
+      data-background-image: "../00_images/unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: true
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+---
+
+# Introduction
+
+## Social groups and politics
+
+<br>
+
+. . .
+
+- **Cleavage** theory [@lipset1967cleavage]
+
+- **Social groups** and voting [@Lazarsfeld1944]
+
+- **Partisan identity** [@Campbell1960]
+
+<br>
+
+. . . 
+
+Any **other application** of [**group identity**]{style="color:red;"} theory to **political behavior**?
+
+---
+
+![](fig3_dennison.png){fig-align="center"}
+
+<center>Dennison & Geddes [-@Dennison2018]</center>
+
+---
+
+![](harry_potter.png){fig-align="center"}
+
+<center>Source: The Independent [based on @Turnbull-DugarteWagner2025]</center>
+
+# Conflicting identities and inter-group relations
+
+## Americans, not partisans
+
+[@levendusky_americans_2018]
+
+<br>
+
+. . .
+
+**Affective polarization**
+
+> "...a tendency to dislike and distrust the opposition and to impute negative characteristics to them"
+
+<br>
+
+Normatively [negative implications]{style="color:red;"}.
+
+<br>
+
+*How to ameliorate it?*
+
+## The argument
+
+<br>
+
+. . .
+
+A strong [shared identity]{style="color:red;"} can trump affective polarization (AP) if **heightened and salience** by fostering the ***recategorization*** of the *out-group*
+
+. . .
+
+<br>
+
+
+Why the [**American identity**]{style="color:red;"}?
+
+. . .
+
+- 50% strongly identifies as American 
+
+- **cross-cut** other divides
+
+
+## Hypotheses
+
+<br>
+
+**H1:** priming American identity **reduces** AP by reducing [hostility towards the out-group]{style="color:red;"}
+
+**H2:** priming American identity **reduces** AP **more** among [non-sorted partisans]{style="color:red;"}
+
+**H3:** priming American identity **reduces** AP **more** among [weak partisans]{style="color:red;"}
+
+## The experiment
+
+<br>
+
+. . .
+
+
+**Vignette experiment** where respondents have to read a text and then write about it
+
+- **Control:** non political text
+
+- **Treatment:** [patriotic text]{style="color:red;"}
+
+. . .
+
+
+**N:** *1800 survey respondents* from an online probability sample
+
+**DV:** feeling thermomethers, like-dislike scales and stereotypical traits
+
+## Results I
+
+![](tab1_levendusky.png){fig-align="center"}
+
+<center>Levendusky [-@levendusky_americans_2018]</center>
+
+## Results II
+
+![](tab2_levendusky.png){fig-align="center"}
+
+<center>Levendusky [-@levendusky_americans_2018]</center>
+
+## Additional evidence I
+
+![](tab3_levendusky.png){fig-align="center"}
+
+<center>Levendusky [-@levendusky_americans_2018]</center>
+
+## Additional evidence II
+
+![](tab4_levendusky.png){fig-align="center"}
+
+<center>Levendusky [-@levendusky_americans_2018]</center>
+
+## What are the implications of this study?
+
+
+<br>
+
+![](group_activity.png){fig-align="center"}
+
+## And what about its limitations?
+
+. . .
+
+<br>
+
+> "5-point increase in the other party's rating on a scale of 0 to 100 is statistically significant, but is it enough to really change people's political behavior? It would be useful to understand if this reduction in hostility leads to more dialogue or collaboration between parties" (*Schmid*)
+
+---
+
+> "National identity seems to have an immediate impact, but does it last over time?" (*Schmid*)
+
+. . .
+
+<br>
+
+> "politicians may also have problems using this method, because what a politician says is always filtered in a personal way. This makes us wonder who should promote national identity to reduce divisions. Perhaps it is the media, schools or civic organizations that could do a better job? " (*Schmid*)
+
+---
+
+> "affective political polarization on Swiss ground is not a lesser power to consider compared to the one in the USA [...] But there is a significant contrast to the polarization of the U.S. [...] A multi-party one brings echoes of social and political dynamics that are enriched by the integration of political adversaries. " (*Papathanasopoulou*)
+
+## The politics of homonationalism
+
+[@turnbull-dugarte_instrumentally_2023]
+
+. . .
+
+
+![](quote_alberto.png){fig-align="center"}
+
+## The argument
+
+<br>
+
+. . .
+
+*Genuine* vs [*instrumental*]{style="color:red;"} liberalism?
+
+<br>
+
+***Instrumental*** liberalism would be explained by **disidentification** as a reaction to a ***salient out-group***
+
+<br>
+
+> "The enemy of my enemy is my friend"
+
+## The experiments
+
+<br>
+
+. . .
+
+Two **vignette experiments** in the *UK* and *Spain*
+
+<br>
+
+**Control:** anti-LGTB+ *in-group* text
+
+**Treatment:** anti-LGTB+ [out-group]{style="color:red;"} text
+
+<br>
+
+**DV:** support for controversial pro-LGTB+ policy
+
+**Moderating variable:** pre-treatment attitudes toward immigrants
+
+---
+
+![](alberto_vignettes.png){fig-align="center"}
+
+<center>Turnbull-Dugarte & López Ortega [-@turnbull-dugarte_instrumentally_2023]</center>
+
+## Results I
+
+![](fig3_alberto.png){fig-align="center"}
+
+<center>Turnbull-Dugarte & López Ortega [-@turnbull-dugarte_instrumentally_2023]</center>
+
+## Results II
+
+![](fig6_alberto.png){fig-align="center"}
+
+<center>Turnbull-Dugarte & López Ortega [-@turnbull-dugarte_instrumentally_2023]</center>
+
+## Additional evidence
+
+![](fig8_alberto.png){fig-align="center"}
+
+<center>Turnbull-Dugarte & López Ortega [-@turnbull-dugarte_instrumentally_2023]</center>
+
+## Conclusions
+
+<br>
+
+> "...democratic systems rely on circumstantial support for goals understood as superior, whether it is the rule of the political in-group or the exclusion of ethnic out-groups as we show in this study. Indeed, many civil rights gains may hide **fragile underpinnings** that could explain recent democratic reversals in Western countries."
+
+
+## What are other implications (and limitations) of this study?
+
+. . .
+
+<br>
+
+> "reasons are given for choosing the UK and Spain but would it be useful to include a third 'control' country with different parameters? A proposal could be Hungary [...] more hostile and conservative contexts." (*Gaggini*)
+
+---
+
+<br>
+
+> "A second observation concerns the messages used in the experiments. Why was it chosen to present two different ones? The UK's message is against LGBTQ+ tuition whereas Spain's message focuses on the content of school books." (*Gaggini*)
+
+
+---
+
+<br>
+
+> "The Muslim issue is presented in a somewhat forced manner: would it not have been sufficient to use
+Arabic names and omit 'asociacion de padres musulmanes' (for example)? Or in the message of the control group add that the association is Catholic so as to emphasise a religious affiliation here too?" (*Gaggini*)
+
+---
+
+> "the effects of disidentification are probably ephemeral, but no speculation is made about this [...] under what conditions do the effects of disidentification fade? Would openness to LGBTQ+ issues disappear? Or does the adoption of favourable views, over time, change the underlying ideology?" (*Gaggini*)
+
+. . .
+
+> "how can the personal situation of AfD leader Alice Weidel be judged? Is this also a case of homonationalism?" (*Gaggini*)
+
+
+# Conclusion
+
+## How does culture relates to political behavior?
+
+<br>
+
+![](person_question.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+![](questions.png){fig-align="center"}
+
+## Thanks :slightly_smiling_face:
+
+<br>
+
+<br>
+
+See you here on **April 19th**!
+
+# References
