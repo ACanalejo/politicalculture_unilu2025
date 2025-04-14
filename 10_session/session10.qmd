@@ -1,0 +1,365 @@
+---
+title: "Cultural Change and Backlash"
+subtitle: "Session 10"
+author: "Culture & Politics"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/polcul.bib
+csl: ../00_bibliography/apa.csl
+toc: true
+toc-depth: 1
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme:
+      - default
+      - custom.scss
+    logo: ../00_images/logo_unilu.png
+    footer: | 
+         Hauptseminar - Spring Term 2025
+    title-slide-attributes:
+      data-background-image: "../00_images/unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: true
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+    slide-number: true
+---
+
+# Introduction
+
+## Value change and backlash theories
+
+![](inglehart.png){fig-align="center"}
+
+<center>Inglehart (& Welzel) [-@inglehart2015silent; -@inglehart2020modernization; -@inglehart2005modernization]</center>
+
+---
+
+![](norris.png){fig-align="center"}
+
+<center>Norris & Inglehart [-@inglehart2016trump]</center>
+
+---
+
+![](schafer.png){fig-align="center"}
+
+<center>Schäfer [-@schafer2022cultural]</center>
+
+# Cultural Change and Backlash
+
+## Feminist Social Movements on Countering Violence Against Women
+
+[@gandara-guerra_we_2023]
+
+. . .
+
+<br>
+
+What explains **sanctioning** of [gender-based violence]{style="color:red;"} [(sexism)]{style="color:grey;"}?
+
+. . .
+
+1. **#MeToo** movement
+
+2. **Nirbhaya's case** in India
+
+. . .
+
+...but what is the ***general argument***?
+
+## The argument
+
+. . .
+
+<br>
+
+[Public demonstrations]{style="color:red;"} of **gender-based violence's** ***rejection*** should increase [reporting of gender crimes]{style="color:red;"} through three distinct **mechanisms**:
+
+1. Increased [*empowerment*]{style="color:blue;"}
+
+2. Increased [*in-group identification*]{style="color:blue;"}
+
+3. [*Social norm*]{style="color:blue;"} change
+
+## The 8-M protests in Spain
+
+![](manada.png){fig-align="center"}
+
+---
+
+![](8m.png){fig-align="center"}
+
+<center>Madrid, March 8th 2019</center>
+
+## Empirical strategy
+
+. . .
+
+[***Aggregate level***]{style="color:red;"}
+
+- Municipalities with/without **8M rallies**
+
+- Judicial districts' **gender violence reports**
+
+
+[***Individual level***]{style="color:red;"}
+
+- Survey data about **feminism** and gender violence in 2014 and 2019
+
+- Pooled surveys from 2014 to 2019 about **self-identification**
+
+## Results I - Individual level
+
+![](tab1_nerea.png){fig-align="center"}
+
+<center>Gándara-Guerra [-@gandara-guerra_we_2023]</center>
+
+## Results II - Individual level
+
+![](tab2_nerea.png){fig-align="center"}
+
+<center>Gándara-Guerra [-@gandara-guerra_we_2023]</center>
+
+## Results III - Individual level
+
+![](tab3_nerea.png){fig-align="center"}
+
+<center>Gándara-Guerra [-@gandara-guerra_we_2023]</center>
+
+## Results IV - Aggregate level
+
+![](fig3_nerea.png){fig-align="center"}
+
+<center>Gándara-Guerra [-@gandara-guerra_we_2023]</center>
+
+## Results V - Mechanisms
+
+![](fig5_nerea.png){fig-align="center"}
+
+<center>Gándara-Guerra [-@gandara-guerra_we_2023]</center>
+
+## What are the implications of this study?
+
+
+![](implications.png){fig-align="center"}
+
+## And what about its limitations?
+
+<br>
+
+<br>
+
+
+![](question_mark.png){fig-align="center"}
+
+
+<br>
+
+<br>
+
+--- 
+
+<br>
+
+> "In my opinion the main limitation of this research study is the very small amount of data. For example, when comparing variations in gender-based violence reporting, the only data points are 2017 (placebo; pre M8 protests) and 2018 (effect)." (Hilla)
+
+---
+
+<br>
+
+> "...it would be important to look at other factors that might contribute to the differences between municipalities [...] their municipality held protests because feminist organisations are stronger in these municipalities or there are differences in religious beliefs that might explain the results." (Hilla)
+
+## The Individual Dynamics of Gender Backlash
+
+[@anduiza_sexism_2022]
+
+. . .
+
+<br>
+
+Increasing **far-right voting** but virtually no connection with [**gender attitudes**]{style="color:red;"}
+
+. . .
+
+<br>
+
+Attempt to ***disentangle*** both
+
+## The argument
+
+. . .
+
+<br>
+
+[Modern sexism]{style="color:red;"}
+
+1. Denial of **women’s discrimination**
+
+2. Rejection and delegitimization of any **complaint** involving women’s discrimination
+
+3. Rejection of any **measures** taken to correct inequality and discrimination
+
+## The argument
+
+. . .
+
+<br>
+
+Three potential **links**:
+
+1. [Predisposition]{style="color:red;"}
+
+2. [Activation]{style="color:red;"}
+
+3. [Change]{style="color:red;"}
+
+    &#8594; **Normalization**
+
+    &#8594; **Backlash**
+
+## Empirical strategy
+
+. . .
+
+
+Panel data around the **8M protests** and [**VOX entry**]{style="color:red;"} in Spain
+
+  - Four time points *between 2017 and 2020*
+  
+
+![](vox.png){fig-align="center" width=35%}
+
+## Results I - Trajectories
+
+![](fig1_backlash.png){fig-align="center"}
+
+<center>Anduiza & Rico [-@anduiza_sexism_2022]</center>
+
+
+## Results II - Trajectories
+
+![](fig3_backlash.png){fig-align="center"}
+
+<center>Anduiza & Rico [-@anduiza_sexism_2022]</center>
+
+## Results III - Predispositions/Activation
+
+![](tabs1-2_backlash.png){fig-align="center"}
+
+<center>Anduiza & Rico [-@anduiza_sexism_2022]</center>
+
+## Results IV - Normalization/Backlash
+
+![](tab3_backlash.png){fig-align="center"}
+
+<center>Anduiza & Rico [-@anduiza_sexism_2022]</center>
+
+## What are the implications of this study?
+
+
+![](implications.png){fig-align="center"}
+
+## And what about its limitations?
+
+<br>
+
+
+
+![](person_question.png){fig-align="center"}
+
+---
+
+> "Limiting the age to 56 years excludes the oldest segments of the population that could potentially be the most conservative." (Gaggini)
+
+. . .
+
+> "Can 2019-2020 still not be the result of a backlash caused by feminist mobilisations? It can be considered plausible to assume that normalisation take  longer to settle than backlash." (Gaggini)
+
+. . .
+
+> "Why does sexism result in a vote for far-right parties? Or rather, is there no reverse causality?" (Gaggini)
+
+---
+
+> "It is evident that there is an American influence on the idea of the research question, as trying to prove the reality of the USA on Spanish ground." (Papathanasopoulou)
+
+. . .
+
+<br>
+
+> "[...] it would be interesting to study the role of sexism in a country with an established radical right [...] Take Switzerland, for example, with the SVP party, [...] do feminist mobilisations activate the same mechanism highlighted by Anduiza and Rico?" (Gaggini)
+
+---
+
+> "One might even see the association between sexism and empowerment of the far right as a fluke, a random constellation of conditions and facts" (Papathanasopoulou)
+
+. . .
+
+<br>
+
+> "I have also not been entirely convinced by the explanation of what modern sexism is, feeling that it is still hostile sexism but hidden and appearing as it should in the politically correct context." (Papathanasopoulou)
+
+# Conclusion
+
+## Final roundtable
+
+<br>
+
+. . .
+
+👀 Is there something that surprised or challenged your prior thinking?
+
+. . .
+
+<br>
+
+🧠 What role you believe culture play in politics—and how much can we actually study it scientifically?
+
+. . .
+
+<br>
+
+ 🌱 What’s one way you could bring cultural thinking into future political, media, or social questions you’ll work on?
+
+## Suggestions for Block IV
+
+<br>
+
+<br>
+
+
+![](question_mark.png){fig-align="center"}
+
+<br>
+
+<br>
+
+
+------------------------------------------------------------------------
+
+![](questions.png){fig-align="center"}
+
+## Thanks :slightly_smiling_face:
+
+<br>
+
+<br>
+
+See you here on **May 24th**!
+
+# References

@@ -1,0 +1,359 @@
+---
+title: "Political Change and Ideological (de-)Stigmatization"
+subtitle: "Session 08"
+author: "Culture & Politics"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/polcul.bib
+csl: ../00_bibliography/apa.csl
+toc: true
+toc-depth: 1
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme:
+      - default
+      - custom.scss
+    logo: ../00_images/logo_unilu.png
+    footer: | 
+         Hauptseminar - Spring Term 2025
+    title-slide-attributes:
+      data-background-image: "../00_images/unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: true
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+    slide-number: true
+---
+
+## Recap and questions
+
+<br>
+
+- **Block I**: culture, social norms, social identity, cultural originis, persistence and transmission
+
+- **Block II**: applied research on culture and political behavior (vote choice, turnout, partisan and national identity - political attitudes) 
+
+# Introduction
+
+## Models of change
+
+<br>
+
+![](punctuated_equilibrium.png){fig-align="center"}
+
+<br>
+
+## Punctuated equilibrium
+
+<br>
+
+![](punctuated_equilibrium2.png){fig-align="center"}
+
+<br>
+
+
+
+## What critical events/junctures?
+
+<br>
+
+
+![](person_question.png){fig-align="center"}
+
+## Critical junctures for political change
+
+<br>
+
+***Indirect***
+
+- **Economic** shocks
+
+- **Socio-demographic** shocks
+
+***Direct***
+
+- Disruptive **party system** change
+
+- [**Regime**]{style="color:red;"} change
+
+---
+
+<br>
+
+The **impact of these junctures** have been analyzed mostly in the **short-term** and on **individual preferences and behaviour**
+
+<br>
+
+
+Lately, [**long-term**]{style="color:red;"} and [**cultural**]{style="color:red;"} outcomes with ***behavioral implications*** are gaining relevance
+
+. . .
+
+<br>
+
+In this session, we focus on the concept of [**ideological (de-)stigmatization**]{style="color:red;"}, where **politics** and **culture** ***overlaps***
+
+
+# Ideological (de-)Stigmatization
+
+## Political Stigmatization and Preference Falsification
+
+[@valentim_political_2023]
+
+. . .
+
+<br>
+
+Traditional models of political behaviour are mostly based on [*intrinsic motivations*]{style="color:red;"}
+
+
+![](question_mark.png){fig-align="center"}
+
+## Political stigmatization
+
+<br>
+
+**Stigmatization** is proposed as an instance of [*extrinsinc motivations*]{style="color:red;"} modelling political behaviour
+
+. . .
+
+<br>
+
+
+***Definition***
+
+A situation in which individuals perceive that there is a [social norm]{style="color:red;"} against a given *political preference*
+
+
+## The argument
+
+<br>
+
+
+Showing a ***stigmatized political preference*** can come at the cost of [social sanction]{style="color:red;"}. If the **costs of the sanction** are high enough, they may outweigh the **utility** that individuals derive from **expressing their sincere views**, leading to [preference falsification]{style="color:red;"} [@kuran1987preference; @kuran1998private]
+
+## The Spanish case
+
+. . .
+
+Stigmatization of [***Partido Popular (PP)***]{style="color:blue;"}, formerly **AP**, for being a **succesor party**
+
+![](Fraga.png){fig-align="center"}
+
+<center>Franco and Fraga shaking hands</center>
+
+---
+
+![](fig1_val.png){fig-align="center"}
+
+<center>Valentim [-@valentim_political_2023]</center>
+
+---
+
+![](tab1_val.png){fig-align="center"}
+
+<center>Valentim [-@valentim_political_2023]</center>
+
+---
+
+![](tab2_val.png){fig-align="center"}
+
+<center>Valentim [-@valentim_political_2023]</center>
+
+## The empirical strategy
+
+
+. . .
+
+<br>
+
+Leveraging one case where the **electoral system** differs, creating *exogenous variation* in the **visibility of the vote choice**
+
+
+<br>
+
+The *assumption* here is that **increasing the public visibility of the vote choice will decrease the likelihood of voting for PP** only because of the probability of a [sanction]{style="color:red;"} due to a [stigmatized preference]{style="color:red;"}
+---
+
+![](fig2_val.png){fig-align="center"}
+
+<center>Valentim [-@valentim_political_2023]</center>
+
+---
+
+![](fig3_val.png){fig-align="center"}
+
+<center>Valentim [-@valentim_political_2023]</center>
+
+---
+
+![](tab3_val.png){fig-align="center"}
+
+<center>Valentim [-@valentim_political_2023]</center>
+
+## Results
+
+![](fig4_val.png){fig-align="center"}
+
+<center>Valentim [-@valentim_political_2023]</center>
+
+## Additional results
+
+
+![](fig5_val.png){fig-align="center"}
+
+<center>Valentim [-@valentim_political_2023]</center>
+
+## What are the implications of this study?
+
+
+![](implications.png){fig-align="center"}
+
+## And what about its limitations?
+
+<br>
+
+<br>
+
+
+![](question_mark.png){fig-align="center"}
+
+<br>
+
+<br>
+
+
+## Social norm change and expression of stigmatized preferences
+
+[@dinas_social_2023]
+
+<br>
+
+. . .
+
+Increased in [nationalism]{style="color:red;"}  typically explained as an outcome of **out-group threat**
+
+
+![](question_mark.png){fig-align="center"}
+
+
+## Out-group threat triggering norm erosion
+
+<br>
+
+**First-movers** break the [social norm]{style="color:red;"} which ***signals*** its weakening, thus further **eroding** it [(lower sanctioning costs)]{style="color:grey;"}
+
+. . .
+
+1. Increase of **public** expressions of nationalism
+
+2. Stable **private** expressions of nationalism
+
+3. How does **coordination** work?
+
+## The Spanish case (II)
+
+. . .
+
+**Regime change** does not only bring the [stigmatization]{style="color:red;"} of political parties or ideologies [@dinas2020ideological], but it stigmatized the expression of [nationalism]{style="color:red;"} itself in Spain
+
+
+![](flag_fascists.png){fig-align="center" width=60%}
+
+## The Catalan conflict in 2017
+
+<br>
+
+![](fig1_flags.png){fig-align="center"}
+
+<center>Dinas et al [-@dinas_social_2023]</center>
+
+## Empirical strategy
+
+<br>
+
+1. *Establishing* the **increase of flags** after **1-O**
+
+. . .
+
+2. Identifying *relationship* **flags' exposure** and **public** [(not private)]{style="color:grey;"} **expressions of nationalism**
+
+. . .
+
+3. Proving **flags' display** as a [**coordination mechanism**]{style="color:red;"}
+
+## Results I - Flags' increase
+
+![](fig2_flags.png){fig-align="center"}
+
+<center>Dinas et al [-@dinas_social_2023]</center>
+
+## Results II - Flags' increase
+
+![](fig4_flags.png){fig-align="center"}
+
+<center>Dinas et al [-@dinas_social_2023]</center>
+
+## Results III - Norm erosion
+
+
+![](fig5_flags.png){fig-align="center"}
+
+<center>Dinas et al [-@dinas_social_2023]</center>
+
+## Results IV - Coordination mechanism
+
+![](fig7_flags.png){fig-align="center"}
+
+<center>Dinas et al [-@dinas_social_2023]</center>
+
+## What are the implications of this study?
+
+
+![](implications.png){fig-align="center"}
+
+## And what about its limitations?
+
+<br>
+
+
+
+![](person_question.png){fig-align="center"}
+
+
+# Conclusion
+
+## Are we living a process of ideological de-stigmatization?
+
+<br>
+
+![](trump_tariffs.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+![](questions.png){fig-align="center"}
+
+## Thanks :slightly_smiling_face:
+
+<br>
+
+<br>
+
+See you here at **11:00**!
+
+# References

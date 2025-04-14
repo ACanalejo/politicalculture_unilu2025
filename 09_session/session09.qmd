@@ -1,0 +1,381 @@
+---
+title: "Institutions and Cultural Change"
+subtitle: "Session 09"
+author: "Culture & Politics"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/polcul.bib
+csl: ../00_bibliography/apa.csl
+toc: true
+toc-depth: 1
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme:
+      - default
+      - custom.scss
+    logo: ../00_images/logo_unilu.png
+    footer: | 
+         Hauptseminar - Spring Term 2025
+    title-slide-attributes:
+      data-background-image: "../00_images/unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: true
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+    slide-number: true
+---
+
+# Introduction
+
+---
+
+<br>
+
+***Last session...***
+
+The impact of **critical events** [(juncture)]{style="color:grey;"} on political culture
+
+. . .
+
+<br>
+
+***This session...***
+
+Can **moderate change** [(policy/institutional change)]{style="color:grey;"} impact [political culture]{style="color:red;"} too?
+
+## Why studying institutions?
+
+. . .
+
+<br>
+
+Because they [(hopefully)]{style="color:grey;"} have [**policy implications**]{style="color:red;"}!
+
+<br>
+
+![](impact.png){fig-align="center"}
+
+# Institutions and Cultural Change
+
+## Can Policy Change Culture?
+
+[@bau2021can]
+
+. . .
+
+<br>
+
+Three traditional [kinship]{style="color:red;"} models
+
+1. Matrilocal/matrilineal
+
+2. Patrilocal/patrilineal
+
+3. Neolocal
+
+
+## The argument
+
+. . .
+
+<br>
+
+**Matrilocal (patrilocal)** practices serve to ensure that the **daughter (son)** which child will [take care of the parents]{style="color:red;"} when they become old
+
+<br>
+
+This culture has implications for [selective investment]{style="color:red;"} in **imperfectly altruistic** settings
+
+## The argument
+
+. . .
+
+<br>
+
+The introduction of [pension plans]{style="color:red;"} as a feature of **modernization** should remove the need for this investment, thus ***eliminating matrilocal/patrilocal practices***
+
+<br>
+
+Therefore, a relatively small policy can have huge [cultural implications]{style="color:red;"}
+
+## Empirical strategy
+
+. . .
+
+<br>
+
+Matching local **ethnicity census** data with **ethnic practices** data [(*Ethnographic Atlas* & *Ethnologue*)]{style="color:grey;"}
+
+<br>
+
+Two [cases]{style="color:red;"}:
+
+1. **Indonesia** (matrilocal vs neolocal)
+
+2. **Ghana** (patrilocal vs neolocal)
+
+---
+
+![](fig1_policy.png){fig-align="center"}
+
+<center>Bau [-@bau2021can]</center>
+
+## Empirical strategy
+
+<br>
+
+Coding [modern days]{style="color:red;"} **matrilocal (patrilocal)**  practices with census data
+
+---
+
+![](tab1_policy.png){fig-align="center"}
+
+<center>Bau [-@bau2021can]</center>
+
+
+## Empirical strategy
+
+<br>
+
+Coding [modern days]{style="color:grey;"} **matrilocal (patrilocal)**  practices with census data
+
+<br>
+
+Controlling for [historical confounders]{style="color:red;"}:
+
+1. Early hunter gatherer societies
+
+2. Horticultural societies vs. plow/cattle
+
+3. Dowry and bride price
+
+## Results I - Gender gap in education (Indonesia)
+
+![](tab2_policy.png){fig-align="center"}
+
+<center>Bau [-@bau2021can]</center>
+
+## Results II - Pension plan effect (Indonesia)
+
+![](fig2_policy.png){fig-align="center"}
+
+<center>Bau [-@bau2021can]</center>
+
+## Results III - Pension plan effect (Indonesia)
+
+![](tab3_policy.png){fig-align="center"}
+
+<center>Bau [-@bau2021can]</center>
+
+## Results IV - Pension plan effect (Indonesia)
+
+![](tab4_policy.png){fig-align="center"}
+
+<center>Bau [-@bau2021can]</center>
+
+## Results V - Pension plan effect (Indonesia)
+
+![](fig4_policy.png){fig-align="center"}
+
+<center>Bau [-@bau2021can]</center>
+
+## Results VI - Pension plan effect (Ghana)
+
+![](fig4_policy.png){fig-align="center"}
+
+<center>Bau [-@bau2021can]</center>
+
+## What are the implications of this study?
+
+
+![](implications.png){fig-align="center"}
+
+## And what about its limitations?
+
+<br>
+
+<br>
+
+
+![](question_mark.png){fig-align="center"}
+
+<br>
+
+<br>
+
+
+## The Effect of a Supreme Court Decision on Social Norms
+
+[@tankard2017effect]
+
+. . .
+
+<br>
+
+***Traditional research question***
+
+Do **institutional decisions** influence people's [attitudes]{style="color:red;"}?
+
+. . .
+
+<br>
+
+***This paper's research question***
+
+Do [**institutional decisions**]{style="color:grey;"} influence *perceptions* of [social norms]{style="color:red;"}?
+
+---
+
+<br>
+
+**Social norms** &#8800; **personal attitudes**
+
+<br>
+
+Both are argued to have independent [behavioral influence]{style="color:red;"}
+
+<br>
+
+However, the **influence of institutional decisions on behavior via social norms** have not been tested 
+
+## The argument
+
+. . .
+
+<br>
+
+The [link]{style="color:red;"} between **institutional decisions** and **attitudes** is not clear [(ideology, experience)]{style="color:grey;"}. However, [**institutional decisions**]{style="color:grey;"} may influence **social norms** because:
+
+1. They may signal [group opinion]{style="color:red;"} [(representation of a collective)]{style="color:grey;"}
+
+2. They serve as an [expert projection]{style="color:red;"} of the direction in which public opinion will move
+
+3. [Simultaneous observation]{style="color:red;"}  of the same decision
+
+## Obergefell v. Hodges 2015
+
+. . .
+
+<br>
+
+US Supreme Court's ruling allowing **same sex marriage**
+
+<br>
+
+***Expectations***
+
+1. It will increase [perceived public support]{style="color:red;"} toward same sex marriage
+
+2. It will not increase *private personal support*
+
+## Empirical strategy
+
+. . .
+
+<br>
+
+***Study 1***
+
+[Experiment]{style="color:red;"} *before* the Supreme Court ruling manipulating the **perceived likelihood** that the Court ruling will be **positive or negative**
+
+<br>
+
+***Study 2***
+
+[Panel survey]{style="color:red;"} *around the time* of the Supreme Court decision
+
+## Results I - Study 1
+
+![](fig1_ruling.png){fig-align="center"}
+
+<center>Tankard & Paluck [-@tankard2017effect]</center>
+
+## Results II - Study 2
+
+![](fig2_ruling.png){fig-align="center"}
+
+<center>Tankard & Paluck [-@tankard2017effect]</center>
+
+## What are the implications of this study?
+
+
+![](implications.png){fig-align="center"}
+
+
+---
+
+> "...can institutional decisions change society, even when they don't change individual opinions?" (Schmid)
+
+
+## And what about its limitations?
+
+<br>
+
+
+
+![](person_question.png){fig-align="center"}
+
+
+---
+
+> "It would be desirable to examine whether repeated exposure to institutional messages or greater personalization of the decision could also generate changes in individual beliefs." (Schmid)
+
+. . .
+
+<br>
+
+> "...the study is unable to evaluate whether the variation in perceived norms leads to concrete behaviors of greater inclusivity or public support." (Schmid)
+
+---
+
+> "Although the authors of the text try to isolate the effect of the decision itself, in reality it is difficult to separate what people learn from the Court from what they receive through media narration." (Schmid)
+
+. . .
+
+<br>
+
+> "...the study does not adequately explore possible differences in effect between subgroups of the population, such as according to level of education, age or degree of religiosity, which could react differently to normative change." (Schmid)
+
+---
+
+<br>
+
+> "Finally, it would be advisable to consider the potential impact of institutional decisions made by bodies perceived as less legitimate [...] in contexts characterized by a high level of disaffection towards institutions, this mechanism may not be effective or may produce undesirable outcomes, such as polarization." (Schmid)
+
+
+# Conclusion
+
+## Can we design policies targeting cultural norms and practices?
+
+<br>
+
+![](decisions.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+![](questions.png){fig-align="center"}
+
+## Thanks :slightly_smiling_face:
+
+<br>
+
+<br>
+
+Let's switch to the **research workshop**!
+
+# References

@@ -1,0 +1,383 @@
+---
+title: "The Social Norm of Voting Turnout"
+subtitle: "Session 06"
+author: "Culture & Politics"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/polcul.bib
+csl: ../00_bibliography/apa.csl
+toc: true
+toc-depth: 1
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme:
+      - default
+      - custom.scss
+    logo: ../00_images/logo_unilu.png
+    footer: | 
+         Hauptseminar - Spring Term 2025
+    title-slide-attributes:
+      data-background-image: "../00_images/unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: true
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+---
+
+# Introduction
+
+---
+
+<iframe src="https://ourworldindata.org/grapher/voter-turnout" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+## What explains voting turnout?
+
+<br>
+
+<center>
+
+$pB + D > C$
+
+</center>
+
+<br>
+
+**$p$**  -- the probability the vote is pivotal
+
+**$B$**  -- the difference in utility from the candidates’ attributes or policy stances
+
+**$C$**  -- cost of voting
+
+<br>
+
+<center>
+
+Riker and Ordeshook [-@riker1968theory]
+
+</center>
+
+
+## What is *D*? {auto-animate=true}
+
+<br>
+
+. . .
+
+A resource-based model of political participation [@brady1995beyond]
+
+- They **can't**
+
+- They **don't want** to
+
+- **Nobody asked**
+
+## What is *D*? {auto-animate=true}
+
+<br>
+
+A resource-based model of political participation [@brady1995beyond]
+
+- [They **can't**:]{style="color:grey;"} [resources (SES)]{style="color:red;"}
+
+- [They **don't want** to:]{style="color:grey;"} [engagement (interest)]{style="color:red;"}
+
+- [**Nobody asked**:]{style="color:grey;"} [mobilization (networks)]{style="color:red;"}
+
+## What is *D*? {auto-animate=true}
+
+<br>
+
+A resource-based model of political participation [@brady1995beyond]
+
+- [They **can't**:]{style="color:grey;"} [resources (SES)]{style="color:red;"}
+
+- [They **don't want** to:]{style="color:grey;"} [engagement (interest)]{style="color:red;"}
+
+- [**Nobody asked**:]{style="color:grey;"} [mobilization (networks)]{style="color:red;"}
+
+***Anything else?***
+
+# The cultural component of voting turnout
+
+## Social pressure and voting turnout
+
+[@gerber2008social]
+
+<br>
+
+. . .
+
+Turnout as a **civic duty**
+
+<br>
+
+. . .
+
+Two **components**:
+
+- *Intrinsic* motivations
+
+- *Extrinsic* motivations
+
+## The argument
+
+<br>
+
+. . .
+
+**H1:** Increasing [intrinsic]{style="color:red;"} *(civic duty perceptions)* motivations increases turnout 
+
+**H2:** Increasing [extrinsic]{style="color:red;"} *(social pressure)* motivations increases turnout 
+
+**H3:** Increasing [extrinsic]{style="color:red;"} *(social pressure)* motivations may decrease turnout in those with high [intrinsic]{style="color:red;"} *(civic duty)* motivations 
+
+## The experiment I
+
+<br>
+
+. . .
+
+**Setting:** Michigan prior to the 2006 primary election
+
+
+**Data:** public available electoral records among registered voters
+
+
+**Randomization level:** households (more than 100,000)
+
+## The experiment II
+
+<br>
+
+. . .
+
+**Control:** --
+
+<br>
+
+**T1:** civic duty
+
+**T2:** civic duty + Hawthorne effect
+
+**T3:** household revealed information + update after elections
+
+**T4:** neighborhood revealed information + update after elections
+
+## Results I
+
+![](tab1_gerber.png){fig-align="center"}
+
+<center>Gerber et al [-@gerber2008social]</center>
+
+## Results II
+
+![](tab2_gerber.png){fig-align="center"}
+
+<center>Gerber et al [-@gerber2008social]</center>
+
+## Results III
+
+![](tab3_gerber.png){fig-align="center"}
+
+<center>Gerber et al [-@gerber2008social]</center>
+
+## Are the results substantial?
+
+. . .
+
+
+![](tab4_gerber.png){fig-align="center"}
+
+<center>Gerber et al [-@gerber2008social]</center>
+
+
+## Conclusions
+
+<br>
+
+> "...the powerful effects of interventions like the ones described here present behavioral scientists with a **new paradigm** by which to study a wide array of different phenomena, ranging from habit-formation to interpersonal influence"
+
+## What are other implications (and limitations) of this study?
+
+<br>
+
+![](group_activity.png){fig-align="center"}
+
+## Turnout as a social norm
+
+[@doherty2017voting]
+
+. . .
+
+Apart from *demand-side*, there are **supply-side** explanations of voting turnout
+
+- Electoral system and rules
+
+- Party-system structure
+
+- ***Race closeness***
+
+. . .
+
+However, the **empirical evidence** for the role of some of these features is **weak**, [*why?*]{style="color:red;"}
+
+## The argument{auto-animate=true}
+
+
+## The argument{auto-animate=true}
+
+<br>
+
+
+Strong [social norms]{style="color:red;"} *counteract* **race closeness**
+
+<br>
+
+![](social_norm.png){fig-align="center"}
+
+<br>
+
+## The experiment I
+
+<br>
+
+. . .
+
+[Conjoint experiment]{style="color:red;"} replicated in **two studies** with **three versions**:
+
+<br>
+
+- **Battleground status** X **conditional voting**
+
+- **Election closeness** X **conditional voting**
+
+- **Peer behaviour** X **conditional voting** *(social condition)*
+
+## The experiment II{auto-animate=true}
+
+<br>
+
+[**Outcome**]{style="color:red;"}
+
+## The experiment II{auto-animate=true}
+
+<br>
+
+[**Outcome**]{style="color:red;"}
+
+<br>
+
+Hypothetical person's **evaluation**
+
+<br>
+
+![](eval.png){fig-align="center"}
+
+<br>
+
+## Results I
+
+![](fig1a_doherty.png){fig-align="center"}
+
+<center>Doherty et al [-@doherty2017voting]</center>
+
+
+## Results II
+
+![](fig1b_doherty.png){fig-align="center"}
+
+<center>Doherty et al [-@doherty2017voting]</center>
+
+
+## Results III
+
+![](fig1c_doherty.png){fig-align="center"}
+
+<center>Doherty et al [-@doherty2017voting]</center>
+
+
+## What are the implications and limitations of this study?
+
+
+<br>
+
+![](group_activity.png){fig-align="center"}
+
+## What cultural elements of can you identify in these papers?
+
+<br>
+
+![](person_question.png){fig-align="center"}
+
+# Mini-workshop on research questions
+
+## The research proposal
+
+<br>
+
+1. Introduction: motivation and **research question**
+
+2. Literature review (brief)
+
+3. Theory and **hypotheses**
+
+4. Research design
+
+## The research question (RQ)
+
+- **Clear and Specific**: clearly defines the concepts
+
+- **Theoretically Grounded**: connects to existing literature/theory
+
+- **Researchable**: can be investigated using available data, methods, and resources
+
+- **Focused**: narrow enough to be addressed within a reasonable timeframe and scope
+
+- **Empirical**: based on observable and measurable phenomena rather than speculation
+
+## (Main) Types of research questions
+
+1. **Descriptive Questions**
+
+> Example: What are the main policy priorities of right-wing populist parties in Europe?
+
+2. **Explanatory (Causal) Questions**
+
+>  Example: Does exposure to partisan media increase political polarization?
+
+## What are your research questions?
+
+<br>
+
+![](group_activity.png){fig-align="center"}
+
+# Conclusion
+
+------------------------------------------------------------------------
+
+![](questions.png){fig-align="center"}
+
+## Thanks :slightly_smiling_face:
+
+<br>
+
+<br>
+
+See you here at **14:00**!
+
+# References
