@@ -210,13 +210,11 @@ The presentation slides must be uploaded to the folder *Presentations* in OLAT a
 
 - **Explain Your Research Design:** Describe the methodology you will use to answer your research question. Specify the type of data, case selection, variables of interest, and analytical strategy. Justify your choices and explain how your approach allows you to test your argument effectively.
 
-- **Evaluation Criteria:** The presentation will be evaluated based on clarity and communication effectiveness, understanding of key concepts, quality of reasoning, and suitability and feasibility of the proposed research design.
-
-- **Avoiding Common Pitfalls:** Poor presentations often suffer from overcrowded slides, superficial content, and poor time management. To avoid these issues, start preparing the presentation well in advance, sketch the presentation content beforehand, rehearse to ensure it fits within the 15-minute limit, and refine the slides by removing redundant content. Practicing in front of a friend and seeking feedback can also help improve the presentation. Additionally, ensure that visuals (graphs, tables, or figures) are clear and support your argument rather than serving as mere decoration.
+- **Avoid Common Pitfalls:** Poor presentations often suffer from overcrowded slides, superficial content, and poor time management. To avoid these issues, start preparing the presentation well in advance, sketch the presentation content beforehand, rehearse to ensure it fits within the 15-minute limit, and refine the slides by removing redundant content. Practicing in front of a friend and seeking feedback can also help improve the presentation. Additionally, ensure that visuals (graphs, tables, or figures) are clear and support your argument rather than serving as mere decoration.
 
 ### 7. Serve as discussant  {.unnumbered}
 
-At the beginning of the course, during the organization of the presentations, each student will be assigned as a discussant of another student's presentation. The discussant will use the presentation slideS to prepare comments in advance that will share after the presentation.
+At the beginning of the course, during the organization of the presentations, each student will be assigned as a discussant of another student's presentation. The discussant will use the presentation slides to prepare comments in advance that will share after the presentation.
 
 ### Grading policy {.unnumbered}
 
