@@ -460,7 +460,6 @@ In this final block, students will present their research proposals and connect 
 
 #### Session 12. Presentations II (24.05.2025 / 11:00–12:30) 
 
-#### Session 13. Presentations III (24.05.2025 / 13:45–15:15) 
+#### Sessions 13 & 14. Wrap-up discussion (24.05.2025 / 13:45–15:15) 
 
-#### Session 14. Presentations IV / Wrap-up session (24.05.2025 / 15:30–17:00) 
 
